@@ -1,6 +1,7 @@
 db/latest
 db/WCA_export[0-9]*_[0-9]*.sql.zip
 db/wcadbdump.sql
+db/wca_importer.log
 db/dbinfo
 db/dbconnect.php
 db/dbconnect_tmp.php
