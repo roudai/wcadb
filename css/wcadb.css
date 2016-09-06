@@ -1,0 +1,13 @@
+body { 
+  padding-top: 90px; 
+}
+
+.table {
+  margin-bottom: 0px !important;
+}
+
+@media (min-width: 1400px) {
+  .container {
+    width: 1370px ;
+  }
+}

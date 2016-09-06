@@ -1,0 +1,1823 @@
+Sat Jul 30 03:45:37 JST 2016 Successfully imported WCA_export046_20160729.sql.zip
+Sat Jul 30 03:45:37 JST 2016 START sql/wcadb.sql
+Sat Jul 30 03:52:00 JST 2016 END   sql/wcadb.sql
+Sat Jul 30 03:52:00 JST 2016 START sql/kinchranks.sql
+Sat Jul 30 03:56:24 JST 2016 END   sql/kinchranks.sql
+Sat Jul 30 03:56:24 JST 2016 START sql/awecc.sql
+Sat Jul 30 03:58:45 JST 2016 END   sql/awecc.sql
+Sat Jul 30 03:58:45 JST 2016 START awecc_update.php
+Sat Jul 30 03:58:48 JST 2016 END   awecc_update.php
+Sat Jul 30 03:58:48 JST 2016 START dbdump and import
+Sat Jul 30 04:00:22 JST 2016 END   dbdump and import
+Sat Jul 30 04:00:22 JST 2016 FINISH
+Sat Jul 30 04:45:02 JST 2016 No update.
+Sat Jul 30 05:45:02 JST 2016 No update.
+Sat Jul 30 06:45:02 JST 2016 No update.
+Sat Jul 30 07:45:02 JST 2016 No update.
+Sat Jul 30 08:45:02 JST 2016 No update.
+Sat Jul 30 09:45:05 JST 2016 No update.
+Sat Jul 30 10:45:05 JST 2016 No update.
+Sat Jul 30 11:45:02 JST 2016 No update.
+Sat Jul 30 12:45:03 JST 2016 No update.
+Sat Jul 30 13:45:01 JST 2016 No update.
+Sat Jul 30 14:45:01 JST 2016 No update.
+Sat Jul 30 15:45:05 JST 2016 No update.
+Sat Jul 30 16:45:01 JST 2016 No update.
+Sat Jul 30 17:45:01 JST 2016 No update.
+Sat Jul 30 18:45:01 JST 2016 No update.
+Sat Jul 30 19:45:01 JST 2016 No update.
+Sat Jul 30 20:45:04 JST 2016 No update.
+Sat Jul 30 21:45:07 JST 2016 No update.
+Sat Jul 30 22:45:02 JST 2016 No update.
+Sat Jul 30 23:45:03 JST 2016 No update.
+Sun Jul 31 00:45:02 JST 2016 No update.
+Sun Jul 31 01:45:02 JST 2016 No update.
+Sun Jul 31 02:45:02 JST 2016 No update.
+Sun Jul 31 03:45:36 JST 2016 Successfully imported WCA_export047_20160730.sql.zip
+Sun Jul 31 03:45:36 JST 2016 START sql/wcadb.sql
+Sun Jul 31 03:52:04 JST 2016 END   sql/wcadb.sql
+Sun Jul 31 03:52:04 JST 2016 START sql/kinchranks.sql
+Sun Jul 31 03:56:35 JST 2016 END   sql/kinchranks.sql
+Sun Jul 31 03:56:35 JST 2016 START sql/awecc.sql
+Sun Jul 31 03:58:58 JST 2016 END   sql/awecc.sql
+Sun Jul 31 03:58:58 JST 2016 START awecc_update.php
+Sun Jul 31 03:59:01 JST 2016 END   awecc_update.php
+Sun Jul 31 03:59:01 JST 2016 START dbdump and import
+Sun Jul 31 04:00:33 JST 2016 END   dbdump and import
+Sun Jul 31 04:00:33 JST 2016 FINISH
+Sun Jul 31 04:45:03 JST 2016 No update.
+Sun Jul 31 05:45:04 JST 2016 No update.
+Sun Jul 31 06:45:02 JST 2016 No update.
+Sun Jul 31 07:45:03 JST 2016 No update.
+Sun Jul 31 08:45:01 JST 2016 No update.
+Sun Jul 31 09:45:01 JST 2016 No update.
+Sun Jul 31 10:45:01 JST 2016 No update.
+Sun Jul 31 11:45:01 JST 2016 No update.
+Sun Jul 31 12:45:08 JST 2016 No update.
+Sun Jul 31 13:45:02 JST 2016 No update.
+Sun Jul 31 14:45:02 JST 2016 No update.
+Sun Jul 31 15:45:01 JST 2016 No update.
+Sun Jul 31 16:45:02 JST 2016 No update.
+Sun Jul 31 17:45:02 JST 2016 No update.
+Sun Jul 31 18:45:03 JST 2016 No update.
+Sun Jul 31 19:45:02 JST 2016 No update.
+Sun Jul 31 20:33:33 JST 2016 Successfully imported WCA_export048_20160731.sql.zip
+Sun Jul 31 20:33:33 JST 2016 START sql/wcadb.sql
+Sun Jul 31 20:40:06 JST 2016 END   sql/wcadb.sql
+Sun Jul 31 20:40:06 JST 2016 START sql/kinchranks.sql
+Sun Jul 31 20:44:30 JST 2016 END   sql/kinchranks.sql
+Sun Jul 31 20:44:30 JST 2016 START sql/awecc.sql
+Sun Jul 31 20:46:57 JST 2016 END   sql/awecc.sql
+Sun Jul 31 20:46:57 JST 2016 START awecc_update.php
+Sun Jul 31 20:47:00 JST 2016 END   awecc_update.php
+Sun Jul 31 20:47:00 JST 2016 START dbdump and import
+Sun Jul 31 20:48:35 JST 2016 END   dbdump and import
+Sun Jul 31 20:48:35 JST 2016 FINISH
+Sun Jul 31 21:45:01 JST 2016 No update.
+Sun Jul 31 22:45:01 JST 2016 No update.
+Sun Jul 31 23:45:01 JST 2016 No update.
+Mon Aug 1 00:45:03 JST 2016 No update.
+Mon Aug 1 01:45:02 JST 2016 No update.
+Mon Aug 1 02:45:02 JST 2016 No update.
+Mon Aug 1 03:45:02 JST 2016 No update.
+Mon Aug 1 04:45:01 JST 2016 No update.
+Mon Aug 1 05:45:01 JST 2016 No update.
+Mon Aug 1 06:45:01 JST 2016 No update.
+Mon Aug 1 07:45:01 JST 2016 No update.
+Mon Aug 1 08:45:04 JST 2016 No update.
+Mon Aug 1 09:45:02 JST 2016 No update.
+Mon Aug 1 10:45:02 JST 2016 No update.
+Mon Aug 1 11:45:02 JST 2016 No update.
+Mon Aug 1 12:45:02 JST 2016 No update.
+START
+Mon Aug 1 13:45:32 JST 2016 Successfully imported WCA_export049_20160801.sql.zip
+Mon Aug 1 13:45:32 JST 2016 START sql/wcadb.sql
+Mon Aug 1 13:51:45 JST 2016 END   sql/wcadb.sql
+Mon Aug 1 13:51:45 JST 2016 START sql/kinchranks.sql
+Mon Aug 1 13:56:25 JST 2016 END   sql/kinchranks.sql
+Mon Aug 1 13:56:25 JST 2016 START sql/awecc.sql
+Mon Aug 1 13:59:18 JST 2016 END   sql/awecc.sql
+Mon Aug 1 13:59:18 JST 2016 START awecc_update.php
+Mon Aug 1 13:59:21 JST 2016 END   awecc_update.php
+Mon Aug 1 13:59:21 JST 2016 START dbdump and import
+Mon Aug 1 14:00:58 JST 2016 END   dbdump and import
+Mon Aug 1 14:00:58 JST 2016 FINISH
+Mon Aug 1 14:45:02 JST 2016 No update.
+Mon Aug 1 15:45:02 JST 2016 No update.
+Mon Aug 1 16:45:02 JST 2016 No update.
+Mon Aug 1 17:45:02 JST 2016 No update.
+Mon Aug 1 18:45:03 JST 2016 No update.
+Mon Aug 1 19:45:01 JST 2016 No update.
+Mon Aug 1 20:45:02 JST 2016 No update.
+Mon Aug 1 21:45:01 JST 2016 No update.
+Mon Aug 1 22:45:01 JST 2016 No update.
+Mon Aug 1 23:45:03 JST 2016 No update.
+Tue Aug 2 00:45:02 JST 2016 No update.
+Tue Aug 2 01:45:02 JST 2016 No update.
+Tue Aug 2 02:45:02 JST 2016 START
+Tue Aug 2 02:45:32 JST 2016 Successfully imported WCA_export050_20160801.sql.zip
+Tue Aug 2 02:45:32 JST 2016 START sql/wcadb.sql
+Tue Aug 2 02:52:12 JST 2016 END   sql/wcadb.sql
+Tue Aug 2 02:52:12 JST 2016 START sql/kinchranks.sql
+Tue Aug 2 02:56:41 JST 2016 END   sql/kinchranks.sql
+Tue Aug 2 02:56:41 JST 2016 START sql/awecc.sql
+Tue Aug 2 02:59:47 JST 2016 END   sql/awecc.sql
+Tue Aug 2 02:59:47 JST 2016 START awecc_update.php
+Tue Aug 2 02:59:50 JST 2016 END   awecc_update.php
+Tue Aug 2 02:59:50 JST 2016 START dbdump and import
+Tue Aug 2 03:01:26 JST 2016 END   dbdump and import
+Tue Aug 2 03:01:27 JST 2016 FINISH
+Tue Aug 2 03:45:03 JST 2016 No update.
+Tue Aug 2 04:45:01 JST 2016 No update.
+Tue Aug 2 05:45:04 JST 2016 No update.
+Tue Aug 2 06:45:02 JST 2016 No update.
+Tue Aug 2 07:45:04 JST 2016 No update.
+Tue Aug 2 08:45:02 JST 2016 No update.
+Tue Aug 2 09:17:45 JST 2016 No update.
+Tue Aug 2 09:18:06 JST 2016 START
+Tue Aug 2 09:18:30 JST 2016 Successfully imported WCA_export050_20160801.sql.zip
+Tue Aug 2 09:18:30 JST 2016 START sql/wcadb.sql
+Tue Aug 2 09:25:52 JST 2016 END   sql/wcadb.sql
+Tue Aug 2 09:25:52 JST 2016 START sql/kinchranks.sql
+Tue Aug 2 09:30:39 JST 2016 END   sql/kinchranks.sql
+Tue Aug 2 09:30:39 JST 2016 START sql/awecc.sql
+Tue Aug 2 09:33:36 JST 2016 END   sql/awecc.sql
+Tue Aug 2 09:33:36 JST 2016 START awecc_update.php
+Tue Aug 2 09:33:39 JST 2016 END   awecc_update.php
+Tue Aug 2 09:33:39 JST 2016 START dbdump and import
+Tue Aug 2 09:35:20 JST 2016 END   dbdump and import
+Tue Aug 2 09:35:21 JST 2016 FINISH
+Tue Aug 2 09:45:02 JST 2016 START
+Tue Aug 2 09:45:43 JST 2016 Successfully imported WCA_export050_20160801.sql.zip
+Tue Aug 2 09:45:43 JST 2016 START sql/wcadb.sql
+Tue Aug 2 09:52:40 JST 2016 END   sql/wcadb.sql
+Tue Aug 2 09:52:40 JST 2016 START sql/kinchranks.sql
+Tue Aug 2 09:57:21 JST 2016 END   sql/kinchranks.sql
+Tue Aug 2 09:57:21 JST 2016 START sql/awecc.sql
+Tue Aug 2 10:00:09 JST 2016 END   sql/awecc.sql
+Tue Aug 2 10:00:09 JST 2016 START awecc_update.php
+Tue Aug 2 10:00:13 JST 2016 END   awecc_update.php
+Tue Aug 2 10:00:13 JST 2016 START dbdump and import
+Tue Aug 2 10:01:55 JST 2016 END   dbdump and import
+Tue Aug 2 10:01:55 JST 2016 FINISH
+Tue Aug 2 10:45:01 JST 2016 No update.
+Tue Aug 2 11:45:01 JST 2016 No update.
+Tue Aug 2 12:45:03 JST 2016 No update.
+Tue Aug 2 13:45:02 JST 2016 No update.
+Tue Aug 2 14:45:02 JST 2016 No update.
+Tue Aug 2 15:45:02 JST 2016 No update.
+Tue Aug 2 16:45:02 JST 2016 No update.
+Tue Aug 2 17:45:04 JST 2016 No update.
+Tue Aug 2 18:45:04 JST 2016 No update.
+Tue Aug 2 19:45:02 JST 2016 No update.
+Tue Aug 2 20:45:04 JST 2016 No update.
+Tue Aug 2 21:45:01 JST 2016 No update.
+Tue Aug 2 22:45:01 JST 2016 No update.
+Tue Aug 2 23:45:01 JST 2016 No update.
+Wed Aug 3 00:45:03 JST 2016 No update.
+Wed Aug 3 01:45:02 JST 2016 No update.
+Wed Aug 3 02:45:03 JST 2016 No update.
+Wed Aug 3 03:45:02 JST 2016 No update.
+Wed Aug 3 04:45:02 JST 2016 No update.
+Wed Aug 3 05:45:03 JST 2016 No update.
+Wed Aug 3 06:45:02 JST 2016 No update.
+Wed Aug 3 07:45:05 JST 2016 No update.
+Wed Aug 3 08:45:01 JST 2016 No update.
+Wed Aug 3 09:45:01 JST 2016 No update.
+Wed Aug 3 10:45:02 JST 2016 No update.
+Wed Aug 3 11:45:02 JST 2016 No update.
+Wed Aug 3 12:45:02 JST 2016 No update.
+Wed Aug 3 13:45:02 JST 2016 START
+Wed Aug 3 13:45:33 JST 2016 Successfully imported WCA_export051_20160803.sql.zip
+Wed Aug 3 13:45:33 JST 2016 START sql/wcadb.sql
+Wed Aug 3 13:52:12 JST 2016 END   sql/wcadb.sql
+Wed Aug 3 13:52:12 JST 2016 START sql/kinchranks.sql
+Wed Aug 3 13:56:37 JST 2016 END   sql/kinchranks.sql
+Wed Aug 3 13:56:37 JST 2016 START sql/awecc.sql
+Wed Aug 3 13:59:04 JST 2016 END   sql/awecc.sql
+Wed Aug 3 13:59:04 JST 2016 START awecc_update.php
+Wed Aug 3 13:59:08 JST 2016 END   awecc_update.php
+Wed Aug 3 13:59:08 JST 2016 START dbdump and import
+Wed Aug 3 14:00:45 JST 2016 END   dbdump and import
+Wed Aug 3 14:00:46 JST 2016 FINISH
+Wed Aug 3 14:45:02 JST 2016 No update.
+Wed Aug 3 15:45:04 JST 2016 No update.
+Wed Aug 3 16:45:02 JST 2016 No update.
+Wed Aug 3 16:49:02 JST 2016 No update.
+Wed Aug 3 17:45:02 JST 2016 No update.
+Wed Aug 3 18:45:02 JST 2016 No update.
+Wed Aug 3 19:45:01 JST 2016 No update.
+Wed Aug 3 20:45:02 JST 2016 No update.
+Wed Aug 3 21:45:02 JST 2016 No update.
+Wed Aug 3 22:45:03 JST 2016 No update.
+Wed Aug 3 23:45:03 JST 2016 START
+Wed Aug 3 23:45:33 JST 2016 Successfully imported WCA_export052_20160803.sql.zip
+Wed Aug 3 23:45:33 JST 2016 START sql/wcadb.sql
+Wed Aug 3 23:52:29 JST 2016 END   sql/wcadb.sql
+Wed Aug 3 23:52:29 JST 2016 START sql/kinchranks.sql
+Wed Aug 3 23:57:08 JST 2016 END   sql/kinchranks.sql
+Wed Aug 3 23:57:08 JST 2016 START sql/awecc.sql
+Thu Aug 4 00:00:33 JST 2016 END   sql/awecc.sql
+Thu Aug 4 00:00:33 JST 2016 START awecc_update.php
+Thu Aug 4 00:00:37 JST 2016 END   awecc_update.php
+Thu Aug 4 00:00:37 JST 2016 START dbdump and import
+Thu Aug 4 00:02:18 JST 2016 END   dbdump and import
+Thu Aug 4 00:02:19 JST 2016 FINISH
+Thu Aug 4 00:45:02 JST 2016 No update.
+Thu Aug 4 01:45:02 JST 2016 No update.
+Thu Aug 4 02:45:02 JST 2016 No update.
+Thu Aug 4 03:45:01 JST 2016 No update.
+Thu Aug 4 04:45:02 JST 2016 No update.
+Thu Aug 4 05:45:02 JST 2016 No update.
+Thu Aug 4 06:45:04 JST 2016 No update.
+Thu Aug 4 07:45:01 JST 2016 No update.
+Thu Aug 4 08:45:01 JST 2016 No update.
+Thu Aug 4 09:45:05 JST 2016 No update.
+Thu Aug 4 10:45:03 JST 2016 No update.
+Thu Aug 4 11:45:01 JST 2016 No update.
+Thu Aug 4 12:45:03 JST 2016 No update.
+Thu Aug 4 13:45:05 JST 2016 No update.
+Thu Aug 4 14:45:02 JST 2016 No update.
+Thu Aug 4 15:45:02 JST 2016 No update.
+Thu Aug 4 16:45:01 JST 2016 No update.
+Thu Aug 4 17:45:05 JST 2016 No update.
+Thu Aug 4 18:45:04 JST 2016 No update.
+Thu Aug 4 19:45:04 JST 2016 No update.
+Thu Aug 4 20:45:02 JST 2016 No update.
+Thu Aug 4 21:45:02 JST 2016 No update.
+Thu Aug 4 22:45:02 JST 2016 No update.
+Thu Aug 4 23:45:02 JST 2016 No update.
+Fri Aug 5 00:45:02 JST 2016 No update.
+Fri Aug 5 01:45:01 JST 2016 No update.
+Fri Aug 5 02:45:04 JST 2016 No update.
+Fri Aug 5 03:45:02 JST 2016 No update.
+Fri Aug 5 04:45:03 JST 2016 No update.
+Fri Aug 5 05:45:05 JST 2016 No update.
+Fri Aug 5 06:45:02 JST 2016 No update.
+Fri Aug 5 07:45:04 JST 2016 No update.
+Fri Aug 5 08:45:01 JST 2016 No update.
+Fri Aug 5 09:45:02 JST 2016 No update.
+Fri Aug 5 09:48:57 JST 2016 START
+Fri Aug 5 09:49:21 JST 2016 Successfully imported WCA_export052_20160803.sql.zip
+Fri Aug 5 09:49:21 JST 2016 START sql/wcadb.sql
+Fri Aug 5 09:56:19 JST 2016 END   sql/wcadb.sql
+Fri Aug 5 09:56:19 JST 2016 START sql/kinchranks.sql
+Fri Aug 5 10:00:58 JST 2016 END   sql/kinchranks.sql
+Fri Aug 5 10:00:58 JST 2016 START sql/awecc.sql
+Fri Aug 5 10:04:10 JST 2016 END   sql/awecc.sql
+Fri Aug 5 10:04:10 JST 2016 START awecc_update.php
+Fri Aug 5 10:04:14 JST 2016 END   awecc_update.php
+Fri Aug 5 10:04:14 JST 2016 START dbdump and import
+Fri Aug 5 10:05:52 JST 2016 END   dbdump and import
+Fri Aug 5 10:05:53 JST 2016 FINISH
+Fri Aug 5 10:45:04 JST 2016 No update.
+Fri Aug 5 11:45:02 JST 2016 No update.
+Fri Aug 5 12:45:01 JST 2016 No update.
+Fri Aug 5 13:45:02 JST 2016 START
+Fri Aug 5 13:45:31 JST 2016 Successfully imported WCA_export053_20160805.sql.zip
+Fri Aug 5 13:45:31 JST 2016 START sql/wcadb.sql
+Fri Aug 5 13:52:36 JST 2016 END   sql/wcadb.sql
+Fri Aug 5 13:52:36 JST 2016 START sql/kinchranks.sql
+Fri Aug 5 13:57:10 JST 2016 END   sql/kinchranks.sql
+Fri Aug 5 13:57:11 JST 2016 START sql/awecc.sql
+Fri Aug 5 14:00:31 JST 2016 END   sql/awecc.sql
+Fri Aug 5 14:00:31 JST 2016 START awecc_update.php
+Fri Aug 5 14:00:35 JST 2016 END   awecc_update.php
+Fri Aug 5 14:00:35 JST 2016 START dbdump and import
+Fri Aug 5 14:02:13 JST 2016 END   dbdump and import
+Fri Aug 5 14:02:13 JST 2016 FINISH
+Fri Aug 5 14:45:02 JST 2016 No update.
+Fri Aug 5 15:45:01 JST 2016 No update.
+Fri Aug 5 16:45:03 JST 2016 No update.
+Fri Aug 5 17:45:02 JST 2016 No update.
+Fri Aug 5 18:45:01 JST 2016 No update.
+Fri Aug 5 19:45:03 JST 2016 No update.
+Fri Aug 5 20:45:02 JST 2016 No update.
+Fri Aug 5 21:45:02 JST 2016 No update.
+Fri Aug 5 22:45:03 JST 2016 No update.
+Fri Aug 5 23:45:02 JST 2016 No update.
+Sat Aug 6 00:45:01 JST 2016 No update.
+Sat Aug 6 01:45:02 JST 2016 No update.
+Sat Aug 6 02:45:03 JST 2016 No update.
+Sat Aug 6 03:45:03 JST 2016 No update.
+Sat Aug 6 04:45:02 JST 2016 No update.
+Sat Aug 6 05:45:02 JST 2016 No update.
+Sat Aug 6 06:45:01 JST 2016 No update.
+Sat Aug 6 07:45:01 JST 2016 No update.
+Sat Aug 6 08:45:02 JST 2016 No update.
+Sat Aug 6 09:45:07 JST 2016 No update.
+Sat Aug 6 10:45:01 JST 2016 No update.
+Sat Aug 6 11:45:01 JST 2016 No update.
+Sat Aug 6 12:45:05 JST 2016 No update.
+Sat Aug 6 13:45:02 JST 2016 No update.
+Sat Aug 6 14:45:02 JST 2016 No update.
+Sat Aug 6 15:45:02 JST 2016 No update.
+Sat Aug 6 16:45:02 JST 2016 No update.
+Sat Aug 6 17:45:02 JST 2016 No update.
+Sat Aug 6 18:45:02 JST 2016 No update.
+Sat Aug 6 19:45:02 JST 2016 No update.
+Sat Aug 6 20:45:03 JST 2016 No update.
+Sat Aug 6 21:45:04 JST 2016 No update.
+Sat Aug 6 22:45:02 JST 2016 No update.
+Sat Aug 6 23:45:02 JST 2016 No update.
+Sun Aug 7 00:45:02 JST 2016 No update.
+Sun Aug 7 01:45:03 JST 2016 No update.
+Sun Aug 7 02:45:04 JST 2016 No update.
+Sun Aug 7 03:45:02 JST 2016 No update.
+Sun Aug 7 04:45:02 JST 2016 No update.
+Sun Aug 7 05:45:01 JST 2016 No update.
+Sun Aug 7 06:45:01 JST 2016 No update.
+Sun Aug 7 07:45:02 JST 2016 No update.
+Sun Aug 7 08:45:02 JST 2016 No update.
+Sun Aug 7 09:45:01 JST 2016 No update.
+Sun Aug 7 10:45:02 JST 2016 No update.
+Sun Aug 7 11:45:04 JST 2016 No update.
+Sun Aug 7 12:45:01 JST 2016 No update.
+Sun Aug 7 13:45:01 JST 2016 No update.
+Sun Aug 7 14:45:02 JST 2016 No update.
+Sun Aug 7 15:45:02 JST 2016 No update.
+Sun Aug 7 16:45:02 JST 2016 No update.
+Sun Aug 7 17:45:02 JST 2016 No update.
+Sun Aug 7 18:45:02 JST 2016 START
+Sun Aug 7 18:45:36 JST 2016 Successfully imported WCA_export054_20160807.sql.zip
+Sun Aug 7 18:45:36 JST 2016 START sql/wcadb.sql
+Sun Aug 7 18:52:33 JST 2016 END   sql/wcadb.sql
+Sun Aug 7 18:52:33 JST 2016 START sql/kinchranks.sql
+Sun Aug 7 18:57:12 JST 2016 END   sql/kinchranks.sql
+Sun Aug 7 18:57:12 JST 2016 START sql/awecc.sql
+Sun Aug 7 19:00:21 JST 2016 END   sql/awecc.sql
+Sun Aug 7 19:00:21 JST 2016 START awecc_update.php
+Sun Aug 7 19:00:24 JST 2016 END   awecc_update.php
+Sun Aug 7 19:00:24 JST 2016 START dbdump and import
+Sun Aug 7 19:02:03 JST 2016 END   dbdump and import
+Sun Aug 7 19:02:04 JST 2016 FINISH
+Sun Aug 7 19:45:01 JST 2016 No update.
+Sun Aug 7 20:45:01 JST 2016 No update.
+Sun Aug 7 21:45:04 JST 2016 No update.
+Sun Aug 7 22:45:03 JST 2016 No update.
+Sun Aug 7 23:45:01 JST 2016 No update.
+Mon Aug 8 00:45:01 JST 2016 START
+Mon Aug 8 00:45:29 JST 2016 Successfully imported WCA_export055_20160807.sql.zip
+Mon Aug 8 00:45:29 JST 2016 START sql/wcadb.sql
+Mon Aug 8 00:52:40 JST 2016 END   sql/wcadb.sql
+Mon Aug 8 00:52:40 JST 2016 START sql/kinchranks.sql
+Mon Aug 8 00:57:14 JST 2016 END   sql/kinchranks.sql
+Mon Aug 8 00:57:14 JST 2016 START sql/awecc.sql
+Mon Aug 8 01:00:18 JST 2016 END   sql/awecc.sql
+Mon Aug 8 01:00:18 JST 2016 START awecc_update.php
+Mon Aug 8 01:00:21 JST 2016 END   awecc_update.php
+Mon Aug 8 01:00:21 JST 2016 START dbdump and import
+Mon Aug 8 01:01:57 JST 2016 END   dbdump and import
+Mon Aug 8 01:01:58 JST 2016 FINISH
+Mon Aug 8 01:45:04 JST 2016 No update.
+Mon Aug 8 02:45:03 JST 2016 No update.
+Mon Aug 8 03:45:03 JST 2016 START
+Mon Aug 8 03:45:33 JST 2016 Successfully imported WCA_export056_20160807.sql.zip
+Mon Aug 8 03:45:33 JST 2016 START sql/wcadb.sql
+Mon Aug 8 03:52:09 JST 2016 END   sql/wcadb.sql
+Mon Aug 8 03:52:09 JST 2016 START sql/kinchranks.sql
+Mon Aug 8 03:56:44 JST 2016 END   sql/kinchranks.sql
+Mon Aug 8 03:56:44 JST 2016 START sql/awecc.sql
+Mon Aug 8 04:00:52 JST 2016 END   sql/awecc.sql
+Mon Aug 8 04:00:52 JST 2016 START awecc_update.php
+Mon Aug 8 04:00:56 JST 2016 END   awecc_update.php
+Mon Aug 8 04:00:56 JST 2016 START dbdump and import
+Mon Aug 8 04:02:36 JST 2016 END   dbdump and import
+Mon Aug 8 04:02:37 JST 2016 FINISH
+Mon Aug 8 04:45:02 JST 2016 No update.
+Mon Aug 8 05:45:04 JST 2016 START
+Mon Aug 8 05:45:32 JST 2016 Successfully imported WCA_export057_20160807.sql.zip
+Mon Aug 8 05:45:32 JST 2016 START sql/wcadb.sql
+Mon Aug 8 05:52:23 JST 2016 END   sql/wcadb.sql
+Mon Aug 8 05:52:23 JST 2016 START sql/kinchranks.sql
+Mon Aug 8 05:56:58 JST 2016 END   sql/kinchranks.sql
+Mon Aug 8 05:56:58 JST 2016 START sql/awecc.sql
+Mon Aug 8 06:00:21 JST 2016 END   sql/awecc.sql
+Mon Aug 8 06:00:21 JST 2016 START awecc_update.php
+Mon Aug 8 06:00:25 JST 2016 END   awecc_update.php
+Mon Aug 8 06:00:25 JST 2016 START dbdump and import
+Mon Aug 8 06:02:02 JST 2016 END   dbdump and import
+Mon Aug 8 06:02:03 JST 2016 FINISH
+Mon Aug 8 06:45:01 JST 2016 No update.
+Mon Aug 8 07:45:03 JST 2016 No update.
+Mon Aug 8 08:45:01 JST 2016 No update.
+Mon Aug 8 09:45:01 JST 2016 No update.
+Mon Aug 8 10:45:02 JST 2016 No update.
+Mon Aug 8 11:45:04 JST 2016 No update.
+Mon Aug 8 12:45:02 JST 2016 No update.
+Mon Aug 8 13:45:06 JST 2016 START
+Mon Aug 8 13:45:35 JST 2016 Successfully imported WCA_export058_20160808.sql.zip
+Mon Aug 8 13:45:35 JST 2016 START sql/wcadb.sql
+Mon Aug 8 13:52:48 JST 2016 END   sql/wcadb.sql
+Mon Aug 8 13:52:48 JST 2016 START sql/kinchranks.sql
+Mon Aug 8 13:57:21 JST 2016 END   sql/kinchranks.sql
+Mon Aug 8 13:57:21 JST 2016 START sql/awecc.sql
+Mon Aug 8 14:00:23 JST 2016 END   sql/awecc.sql
+Mon Aug 8 14:00:23 JST 2016 START awecc_update.php
+Mon Aug 8 14:00:27 JST 2016 END   awecc_update.php
+Mon Aug 8 14:00:27 JST 2016 START dbdump and import
+Mon Aug 8 14:02:05 JST 2016 END   dbdump and import
+Mon Aug 8 14:02:06 JST 2016 FINISH
+Mon Aug 8 14:45:02 JST 2016 No update.
+Mon Aug 8 15:45:02 JST 2016 No update.
+Mon Aug 8 16:45:04 JST 2016 No update.
+Mon Aug 8 17:45:05 JST 2016 No update.
+Mon Aug 8 18:45:02 JST 2016 No update.
+Mon Aug 8 19:45:01 JST 2016 No update.
+Mon Aug 8 20:45:02 JST 2016 No update.
+Mon Aug 8 21:45:02 JST 2016 No update.
+Mon Aug 8 22:45:03 JST 2016 No update.
+Mon Aug 8 23:45:02 JST 2016 No update.
+Tue Aug 9 00:45:01 JST 2016 No update.
+Tue Aug 9 01:45:01 JST 2016 No update.
+Tue Aug 9 02:45:02 JST 2016 No update.
+Tue Aug 9 03:45:01 JST 2016 No update.
+Tue Aug 9 04:45:02 JST 2016 No update.
+Tue Aug 9 05:45:07 JST 2016 No update.
+Tue Aug 9 06:45:10 JST 2016 No update.
+Tue Aug 9 07:45:04 JST 2016 No update.
+Tue Aug 9 08:45:03 JST 2016 No update.
+2016年 8月 9日 火曜日 09:45:02 JST No update.
+2016年 8月 9日 火曜日 10:45:02 JST No update.
+2016年 8月 9日 火曜日 11:45:02 JST No update.
+2016年 8月 9日 火曜日 12:45:02 JST No update.
+2016年 8月 9日 火曜日 13:45:03 JST No update.
+2016年 8月 9日 火曜日 14:45:02 JST No update.
+2016年 8月 9日 火曜日 15:45:02 JST No update.
+2016年 8月 9日 火曜日 16:45:02 JST No update.
+2016年 8月 9日 火曜日 17:45:02 JST No update.
+2016年 8月 9日 火曜日 18:45:05 JST No update.
+2016年 8月 9日 火曜日 19:45:02 JST No update.
+2016年 8月 9日 火曜日 20:45:05 JST No update.
+2016年 8月 9日 火曜日 21:45:02 JST No update.
+2016年 8月 9日 火曜日 22:45:02 JST No update.
+2016年 8月 9日 火曜日 23:45:04 JST No update.
+2016年 8月 10日 水曜日 00:45:02 JST No update.
+2016年 8月 10日 水曜日 01:45:02 JST No update.
+2016年 8月 10日 水曜日 02:45:02 JST No update.
+2016年 8月 10日 水曜日 03:45:02 JST No update.
+2016年 8月 10日 水曜日 04:45:03 JST No update.
+2016年 8月 10日 水曜日 05:45:02 JST No update.
+2016年 8月 10日 水曜日 06:45:02 JST No update.
+2016年 8月 10日 水曜日 07:45:02 JST No update.
+2016年 8月 10日 水曜日 08:45:02 JST No update.
+2016年 8月 10日 水曜日 09:45:05 JST No update.
+2016年 8月 10日 水曜日 10:45:04 JST No update.
+2016年 8月 10日 水曜日 11:45:01 JST No update.
+2016年 8月 10日 水曜日 12:45:03 JST No update.
+2016年 8月 10日 水曜日 13:45:04 JST START
+2016年 8月 10日 水曜日 13:45:31 JST Successfully imported WCA_export059_20160810.sql.zip
+2016年 8月 10日 水曜日 13:45:31 JST START sql/wcadb.sql
+2016年 8月 10日 水曜日 13:52:20 JST END   sql/wcadb.sql
+2016年 8月 10日 水曜日 13:52:20 JST START sql/kinchranks.sql
+2016年 8月 10日 水曜日 13:56:45 JST END   sql/kinchranks.sql
+2016年 8月 10日 水曜日 13:56:45 JST START sql/awecc.sql
+2016年 8月 10日 水曜日 13:59:23 JST END   sql/awecc.sql
+2016年 8月 10日 水曜日 13:59:23 JST START awecc_update.php
+2016年 8月 10日 水曜日 13:59:25 JST END   awecc_update.php
+2016年 8月 10日 水曜日 13:59:25 JST START dbdump and import
+2016年 8月 10日 水曜日 14:00:59 JST END   dbdump and import
+2016年 8月 10日 水曜日 14:01:00 JST FINISH
+2016年 8月 10日 水曜日 14:45:01 JST No update.
+2016年 8月 10日 水曜日 15:45:01 JST No update.
+2016年 8月 10日 水曜日 16:45:01 JST No update.
+2016年 8月 10日 水曜日 17:45:07 JST No update.
+2016年 8月 10日 水曜日 18:45:02 JST No update.
+2016年 8月 10日 水曜日 19:45:03 JST No update.
+2016年 8月 10日 水曜日 20:45:02 JST No update.
+2016年 8月 10日 水曜日 21:45:01 JST No update.
+2016年 8月 10日 水曜日 22:45:02 JST No update.
+2016年 8月 10日 水曜日 23:45:01 JST No update.
+2016年 8月 11日 木曜日 00:45:03 JST START
+2016年 8月 11日 木曜日 00:45:30 JST Successfully imported WCA_export060_20160810.sql.zip
+2016年 8月 11日 木曜日 00:45:30 JST START sql/wcadb.sql
+2016年 8月 11日 木曜日 00:51:54 JST END   sql/wcadb.sql
+2016年 8月 11日 木曜日 00:51:54 JST START sql/kinchranks.sql
+2016年 8月 11日 木曜日 00:56:31 JST END   sql/kinchranks.sql
+2016年 8月 11日 木曜日 00:56:31 JST START sql/awecc.sql
+2016年 8月 11日 木曜日 00:59:18 JST END   sql/awecc.sql
+2016年 8月 11日 木曜日 00:59:18 JST START awecc_update.php
+2016年 8月 11日 木曜日 00:59:21 JST END   awecc_update.php
+2016年 8月 11日 木曜日 00:59:21 JST START dbdump and import
+2016年 8月 11日 木曜日 01:00:57 JST END   dbdump and import
+2016年 8月 11日 木曜日 01:00:58 JST FINISH
+2016年 8月 11日 木曜日 01:45:01 JST No update.
+2016年 8月 11日 木曜日 02:45:03 JST No update.
+2016年 8月 11日 木曜日 03:45:04 JST No update.
+2016年 8月 11日 木曜日 04:45:01 JST No update.
+2016年 8月 11日 木曜日 05:45:01 JST No update.
+2016年 8月 11日 木曜日 06:45:05 JST No update.
+2016年 8月 11日 木曜日 07:45:04 JST No update.
+2016年 8月 11日 木曜日 08:45:02 JST No update.
+2016年 8月 11日 木曜日 09:45:06 JST No update.
+2016年 8月 11日 木曜日 10:45:03 JST No update.
+2016年 8月 11日 木曜日 11:45:02 JST No update.
+2016年 8月 11日 木曜日 12:45:01 JST No update.
+2016年 8月 11日 木曜日 13:45:02 JST No update.
+2016年 8月 11日 木曜日 14:45:07 JST No update.
+2016年 8月 11日 木曜日 15:45:02 JST No update.
+2016年 8月 11日 木曜日 16:45:03 JST No update.
+2016年 8月 11日 木曜日 17:45:03 JST No update.
+2016年 8月 11日 木曜日 18:45:04 JST No update.
+2016年 8月 11日 木曜日 19:45:02 JST No update.
+2016年 8月 11日 木曜日 20:45:02 JST No update.
+2016年 8月 11日 木曜日 21:45:04 JST No update.
+2016年 8月 11日 木曜日 22:45:01 JST No update.
+2016年 8月 11日 木曜日 23:45:01 JST No update.
+2016年 8月 12日 金曜日 00:45:02 JST No update.
+2016年 8月 12日 金曜日 01:45:02 JST No update.
+2016年 8月 12日 金曜日 02:45:01 JST No update.
+2016年 8月 12日 金曜日 03:45:03 JST No update.
+2016年 8月 12日 金曜日 04:45:01 JST No update.
+2016年 8月 12日 金曜日 05:45:04 JST No update.
+2016年 8月 12日 金曜日 06:45:02 JST No update.
+2016年 8月 12日 金曜日 07:45:02 JST No update.
+2016年 8月 12日 金曜日 08:45:02 JST No update.
+2016年 8月 12日 金曜日 09:45:02 JST No update.
+2016年 8月 12日 金曜日 10:45:02 JST No update.
+2016年 8月 12日 金曜日 11:45:02 JST No update.
+2016年 8月 12日 金曜日 12:45:02 JST No update.
+2016年 8月 12日 金曜日 13:45:04 JST START
+2016年 8月 12日 金曜日 13:45:32 JST Successfully imported WCA_export061_20160812.sql.zip
+2016年 8月 12日 金曜日 13:45:32 JST START sql/wcadb.sql
+2016年 8月 12日 金曜日 13:52:36 JST END   sql/wcadb.sql
+2016年 8月 12日 金曜日 13:52:36 JST START sql/kinchranks.sql
+2016年 8月 12日 金曜日 13:57:09 JST END   sql/kinchranks.sql
+2016年 8月 12日 金曜日 13:57:09 JST START sql/awecc.sql
+2016年 8月 12日 金曜日 14:00:22 JST END   sql/awecc.sql
+2016年 8月 12日 金曜日 14:00:22 JST START awecc_update.php
+2016年 8月 12日 金曜日 14:00:25 JST END   awecc_update.php
+2016年 8月 12日 金曜日 14:00:25 JST START dbdump and import
+2016年 8月 12日 金曜日 14:02:01 JST END   dbdump and import
+2016年 8月 12日 金曜日 14:02:02 JST FINISH
+2016年 8月 12日 金曜日 14:45:03 JST No update.
+2016年 8月 12日 金曜日 15:45:02 JST No update.
+2016年 8月 12日 金曜日 16:45:01 JST START
+2016年 8月 12日 金曜日 16:45:31 JST Successfully imported WCA_export062_20160812.sql.zip
+2016年 8月 12日 金曜日 16:45:31 JST START sql/wcadb.sql
+2016年 8月 12日 金曜日 16:52:16 JST END   sql/wcadb.sql
+2016年 8月 12日 金曜日 16:52:16 JST START sql/kinchranks.sql
+2016年 8月 12日 金曜日 16:56:55 JST END   sql/kinchranks.sql
+2016年 8月 12日 金曜日 16:56:55 JST START sql/awecc.sql
+2016年 8月 12日 金曜日 16:59:50 JST END   sql/awecc.sql
+2016年 8月 12日 金曜日 16:59:50 JST START awecc_update.php
+2016年 8月 12日 金曜日 16:59:54 JST END   awecc_update.php
+2016年 8月 12日 金曜日 16:59:54 JST START dbdump and import
+2016年 8月 12日 金曜日 17:01:31 JST END   dbdump and import
+2016年 8月 12日 金曜日 17:01:32 JST FINISH
+2016年 8月 12日 金曜日 17:45:03 JST No update.
+2016年 8月 12日 金曜日 18:45:02 JST No update.
+2016年 8月 12日 金曜日 19:45:05 JST No update.
+2016年 8月 12日 金曜日 20:45:02 JST No update.
+2016年 8月 12日 金曜日 21:45:02 JST No update.
+2016年 8月 12日 金曜日 22:45:02 JST No update.
+2016年 8月 12日 金曜日 23:45:03 JST No update.
+2016年 8月 13日 土曜日 00:45:01 JST No update.
+2016年 8月 13日 土曜日 01:45:02 JST No update.
+2016年 8月 13日 土曜日 02:45:02 JST No update.
+2016年 8月 13日 土曜日 03:45:02 JST No update.
+2016年 8月 13日 土曜日 04:45:01 JST No update.
+2016年 8月 13日 土曜日 05:45:01 JST No update.
+2016年 8月 13日 土曜日 06:45:08 JST No update.
+2016年 8月 13日 土曜日 07:45:01 JST No update.
+2016年 8月 13日 土曜日 08:45:03 JST No update.
+2016年 8月 13日 土曜日 09:45:01 JST No update.
+2016年 8月 13日 土曜日 10:45:04 JST No update.
+2016年 8月 13日 土曜日 11:45:02 JST No update.
+2016年 8月 13日 土曜日 12:45:02 JST No update.
+2016年 8月 13日 土曜日 13:45:02 JST No update.
+2016年 8月 13日 土曜日 14:45:02 JST No update.
+2016年 8月 13日 土曜日 15:45:02 JST No update.
+2016年 8月 13日 土曜日 16:45:02 JST No update.
+2016年 8月 13日 土曜日 17:45:05 JST No update.
+2016年 8月 13日 土曜日 18:45:02 JST No update.
+2016年 8月 13日 土曜日 19:45:06 JST No update.
+2016年 8月 13日 土曜日 20:45:02 JST No update.
+2016年 8月 13日 土曜日 21:45:02 JST No update.
+2016年 8月 13日 土曜日 22:45:02 JST No update.
+2016年 8月 13日 土曜日 23:45:01 JST No update.
+2016年 8月 14日 日曜日 00:45:03 JST No update.
+2016年 8月 14日 日曜日 01:45:02 JST No update.
+2016年 8月 14日 日曜日 02:45:01 JST No update.
+2016年 8月 14日 日曜日 03:45:02 JST No update.
+2016年 8月 14日 日曜日 04:45:02 JST No update.
+2016年 8月 14日 日曜日 05:45:02 JST No update.
+2016年 8月 14日 日曜日 06:45:03 JST No update.
+2016年 8月 14日 日曜日 07:45:02 JST No update.
+2016年 8月 14日 日曜日 08:45:02 JST No update.
+2016年 8月 14日 日曜日 09:45:02 JST No update.
+2016年 8月 14日 日曜日 10:45:04 JST No update.
+2016年 8月 14日 日曜日 11:45:03 JST No update.
+2016年 8月 14日 日曜日 12:45:02 JST No update.
+2016年 8月 14日 日曜日 13:45:04 JST No update.
+2016年 8月 14日 日曜日 14:45:04 JST No update.
+2016年 8月 14日 日曜日 15:45:02 JST No update.
+2016年 8月 14日 日曜日 16:45:02 JST No update.
+2016年 8月 14日 日曜日 17:45:02 JST No update.
+2016年 8月 14日 日曜日 18:45:01 JST START
+2016年 8月 14日 日曜日 18:45:30 JST Successfully imported WCA_export063_20160814.sql.zip
+2016年 8月 14日 日曜日 18:45:30 JST START sql/wcadb.sql
+2016年 8月 14日 日曜日 18:52:20 JST END   sql/wcadb.sql
+2016年 8月 14日 日曜日 18:52:20 JST START sql/kinchranks.sql
+2016年 8月 14日 日曜日 18:57:01 JST END   sql/kinchranks.sql
+2016年 8月 14日 日曜日 18:57:01 JST START sql/awecc.sql
+2016年 8月 14日 日曜日 19:00:23 JST END   sql/awecc.sql
+2016年 8月 14日 日曜日 19:00:23 JST START awecc_update.php
+2016年 8月 14日 日曜日 19:00:27 JST END   awecc_update.php
+2016年 8月 14日 日曜日 19:00:27 JST START dbdump and import
+2016年 8月 14日 日曜日 19:02:05 JST END   dbdump and import
+2016年 8月 14日 日曜日 19:02:06 JST FINISH
+2016年 8月 14日 日曜日 19:45:02 JST No update.
+2016年 8月 14日 日曜日 20:45:03 JST No update.
+2016年 8月 14日 日曜日 21:45:04 JST No update.
+2016年 8月 14日 日曜日 22:45:02 JST No update.
+2016年 8月 14日 日曜日 23:45:02 JST No update.
+2016年 8月 15日 月曜日 00:45:03 JST No update.
+2016年 8月 15日 月曜日 01:45:02 JST No update.
+2016年 8月 15日 月曜日 02:45:01 JST No update.
+2016年 8月 15日 月曜日 03:45:01 JST No update.
+2016年 8月 15日 月曜日 04:45:02 JST No update.
+2016年 8月 15日 月曜日 05:45:03 JST No update.
+2016年 8月 15日 月曜日 06:45:01 JST No update.
+2016年 8月 15日 月曜日 07:45:02 JST No update.
+2016年 8月 15日 月曜日 08:45:02 JST No update.
+2016年 8月 15日 月曜日 09:45:01 JST No update.
+2016年 8月 15日 月曜日 10:45:03 JST No update.
+2016年 8月 15日 月曜日 11:45:01 JST No update.
+2016年 8月 15日 月曜日 12:45:02 JST No update.
+2016年 8月 15日 月曜日 13:45:03 JST START
+2016年 8月 15日 月曜日 13:45:32 JST Successfully imported WCA_export065_20160815.sql.zip
+2016年 8月 15日 月曜日 13:45:32 JST START sql/wcadb.sql
+2016年 8月 15日 月曜日 13:52:19 JST END   sql/wcadb.sql
+2016年 8月 15日 月曜日 13:52:19 JST START sql/kinchranks.sql
+2016年 8月 15日 月曜日 13:56:54 JST END   sql/kinchranks.sql
+2016年 8月 15日 月曜日 13:56:54 JST START sql/awecc.sql
+2016年 8月 15日 月曜日 13:59:57 JST END   sql/awecc.sql
+2016年 8月 15日 月曜日 13:59:57 JST START awecc_update.php
+2016年 8月 15日 月曜日 14:00:01 JST END   awecc_update.php
+2016年 8月 15日 月曜日 14:00:01 JST START dbdump and import
+2016年 8月 15日 月曜日 14:01:36 JST END   dbdump and import
+2016年 8月 15日 月曜日 14:01:37 JST FINISH
+2016年 8月 15日 月曜日 14:45:02 JST No update.
+2016年 8月 15日 月曜日 15:45:01 JST No update.
+2016年 8月 15日 月曜日 16:45:02 JST No update.
+2016年 8月 15日 月曜日 17:45:03 JST No update.
+2016年 8月 15日 月曜日 18:45:02 JST No update.
+2016年 8月 15日 月曜日 19:45:03 JST No update.
+2016年 8月 15日 月曜日 20:45:01 JST No update.
+2016年 8月 15日 月曜日 21:45:04 JST No update.
+2016年 8月 15日 月曜日 22:45:02 JST No update.
+2016年 8月 15日 月曜日 23:45:01 JST No update.
+2016年 8月 16日 火曜日 00:45:02 JST No update.
+2016年 8月 16日 火曜日 01:45:02 JST No update.
+2016年 8月 16日 火曜日 02:45:02 JST No update.
+2016年 8月 16日 火曜日 03:45:04 JST No update.
+2016年 8月 16日 火曜日 04:45:04 JST START
+2016年 8月 16日 火曜日 04:45:32 JST Successfully imported WCA_export066_20160815.sql.zip
+2016年 8月 16日 火曜日 04:45:32 JST START sql/wcadb.sql
+2016年 8月 16日 火曜日 04:52:34 JST END   sql/wcadb.sql
+2016年 8月 16日 火曜日 04:52:34 JST START sql/kinchranks.sql
+2016年 8月 16日 火曜日 04:57:06 JST END   sql/kinchranks.sql
+2016年 8月 16日 火曜日 04:57:06 JST START sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 04:57:08 JST END   sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 04:57:08 JST START sql/awecc.sql
+2016年 8月 16日 火曜日 05:00:21 JST END   sql/awecc.sql
+2016年 8月 16日 火曜日 05:00:21 JST START awecc_update.php
+2016年 8月 16日 火曜日 05:00:25 JST END   awecc_update.php
+2016年 8月 16日 火曜日 05:00:25 JST START dbdump and import
+2016年 8月 16日 火曜日 05:01:59 JST END   dbdump and import
+2016年 8月 16日 火曜日 05:02:00 JST FINISH
+2016年 8月 16日 火曜日 05:45:02 JST No update.
+2016年 8月 16日 火曜日 06:45:01 JST No update.
+2016年 8月 16日 火曜日 07:45:01 JST No update.
+2016年 8月 16日 火曜日 08:45:02 JST No update.
+2016年 8月 16日 火曜日 09:45:01 JST No update.
+2016年 8月 16日 火曜日 10:45:02 JST No update.
+2016年 8月 16日 火曜日 11:45:02 JST No update.
+2016年 8月 16日 火曜日 12:45:06 JST No update.
+2016年 8月 16日 火曜日 13:45:02 JST No update.
+2016年 8月 16日 火曜日 14:45:06 JST No update.
+2016年 8月 16日 火曜日 15:45:07 JST No update.
+2016年 8月 16日 火曜日 16:45:02 JST No update.
+2016年 8月 16日 火曜日 17:45:01 JST No update.
+2016年 8月 16日 火曜日 18:45:02 JST START
+2016年 8月 16日 火曜日 18:45:29 JST Successfully imported WCA_export067_20160816.sql.zip
+2016年 8月 16日 火曜日 18:45:30 JST START sql/wcadb.sql
+2016年 8月 16日 火曜日 18:52:21 JST END   sql/wcadb.sql
+2016年 8月 16日 火曜日 18:52:21 JST START sql/kinchranks.sql
+2016年 8月 16日 火曜日 18:56:52 JST END   sql/kinchranks.sql
+2016年 8月 16日 火曜日 18:56:52 JST START sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 18:56:54 JST END   sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 18:56:54 JST START sql/awecc.sql
+2016年 8月 16日 火曜日 19:00:12 JST END   sql/awecc.sql
+2016年 8月 16日 火曜日 19:00:12 JST START awecc_update.php
+2016年 8月 16日 火曜日 19:00:16 JST END   awecc_update.php
+2016年 8月 16日 火曜日 19:00:16 JST START dbdump and import
+2016年 8月 16日 火曜日 19:01:55 JST END   dbdump and import
+2016年 8月 16日 火曜日 19:01:56 JST FINISH
+2016年 8月 16日 火曜日 19:45:02 JST No update.
+2016年 8月 16日 火曜日 20:45:02 JST START
+2016年 8月 16日 火曜日 20:45:34 JST Successfully imported WCA_export068_20160816.sql.zip
+2016年 8月 16日 火曜日 20:45:34 JST START sql/wcadb.sql
+2016年 8月 16日 火曜日 20:52:15 JST END   sql/wcadb.sql
+2016年 8月 16日 火曜日 20:52:15 JST START sql/kinchranks.sql
+2016年 8月 16日 火曜日 20:56:49 JST END   sql/kinchranks.sql
+2016年 8月 16日 火曜日 20:56:49 JST START sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 20:56:50 JST END   sql/kinchranks_country.sql
+2016年 8月 16日 火曜日 20:56:50 JST START sql/awecc.sql
+2016年 8月 16日 火曜日 21:00:16 JST END   sql/awecc.sql
+2016年 8月 16日 火曜日 21:00:16 JST START awecc_update.php
+2016年 8月 16日 火曜日 21:00:19 JST END   awecc_update.php
+2016年 8月 16日 火曜日 21:00:19 JST START dbdump and import
+2016年 8月 16日 火曜日 21:01:59 JST END   dbdump and import
+2016年 8月 16日 火曜日 21:02:00 JST FINISH
+2016年 8月 16日 火曜日 21:45:03 JST No update.
+2016年 8月 16日 火曜日 22:45:02 JST No update.
+2016年 8月 16日 火曜日 23:45:02 JST No update.
+2016年 8月 17日 水曜日 00:45:01 JST No update.
+2016年 8月 17日 水曜日 01:45:01 JST No update.
+2016年 8月 17日 水曜日 02:45:03 JST No update.
+2016年 8月 17日 水曜日 03:45:02 JST No update.
+2016年 8月 17日 水曜日 04:45:01 JST No update.
+2016年 8月 17日 水曜日 05:45:02 JST No update.
+2016年 8月 17日 水曜日 06:45:02 JST No update.
+2016年 8月 17日 水曜日 07:45:02 JST No update.
+2016年 8月 17日 水曜日 08:45:02 JST No update.
+2016年 8月 17日 水曜日 09:43:01 JST No update.
+2016年 8月 17日 水曜日 10:43:02 JST No update.
+2016年 8月 17日 水曜日 11:43:02 JST No update.
+2016年 8月 17日 水曜日 12:43:03 JST No update.
+2016年 8月 17日 水曜日 13:43:01 JST START
+2016年 8月 17日 水曜日 13:43:35 JST Successfully imported WCA_export069_20160817.sql.zip
+2016年 8月 17日 水曜日 13:43:35 JST START sql/wcadb.sql
+2016年 8月 17日 水曜日 13:50:47 JST END   sql/wcadb.sql
+2016年 8月 17日 水曜日 13:50:47 JST START sql/kinchranks.sql
+2016年 8月 17日 水曜日 13:55:22 JST END   sql/kinchranks.sql
+2016年 8月 17日 水曜日 13:55:22 JST START sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 13:55:23 JST END   sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 13:55:23 JST START sql/awecc.sql
+2016年 8月 17日 水曜日 13:59:14 JST END   sql/awecc.sql
+2016年 8月 17日 水曜日 13:59:14 JST START awecc_update.php
+2016年 8月 17日 水曜日 13:59:18 JST END   awecc_update.php
+2016年 8月 17日 水曜日 13:59:18 JST START dbdump and import
+2016年 8月 17日 水曜日 14:43:02 JST START
+2016年 8月 17日 水曜日 14:43:28 JST Successfully imported WCA_export069_20160817.sql.zip
+2016年 8月 17日 水曜日 14:43:28 JST START sql/wcadb.sql
+2016年 8月 17日 水曜日 14:50:56 JST END   sql/wcadb.sql
+2016年 8月 17日 水曜日 14:50:56 JST START sql/kinchranks.sql
+2016年 8月 17日 水曜日 14:55:25 JST END   sql/kinchranks.sql
+2016年 8月 17日 水曜日 14:55:25 JST START sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 14:55:27 JST END   sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 14:55:27 JST START sql/awecc.sql
+2016年 8月 17日 水曜日 15:00:01 JST END   sql/awecc.sql
+2016年 8月 17日 水曜日 15:00:01 JST START awecc_update.php
+2016年 8月 17日 水曜日 15:00:06 JST END   awecc_update.php
+2016年 8月 17日 水曜日 15:00:06 JST START dbdump and import
+2016年 8月 17日 水曜日 15:43:02 JST START
+2016年 8月 17日 水曜日 15:43:26 JST Successfully imported WCA_export069_20160817.sql.zip
+2016年 8月 17日 水曜日 15:43:26 JST START sql/wcadb.sql
+2016年 8月 17日 水曜日 15:51:16 JST END   sql/wcadb.sql
+2016年 8月 17日 水曜日 15:51:16 JST START sql/kinchranks.sql
+2016年 8月 17日 水曜日 15:55:53 JST END   sql/kinchranks.sql
+2016年 8月 17日 水曜日 15:55:53 JST START sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 15:55:54 JST END   sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 15:55:54 JST START sql/awecc.sql
+2016年 8月 17日 水曜日 16:01:29 JST END   sql/awecc.sql
+2016年 8月 17日 水曜日 16:01:29 JST START awecc_update.php
+2016年 8月 17日 水曜日 16:01:34 JST END   awecc_update.php
+2016年 8月 17日 水曜日 16:01:34 JST START dbdump and import
+2016年 8月 17日 水曜日 20:56:12 JST START
+2016年 8月 17日 水曜日 20:56:18 JST Successfully imported WCA_export070_20160817.sql.zip
+2016年 8月 17日 水曜日 20:56:18 JST START sql/wcadb.sql
+2016年 8月 17日 水曜日 20:56:18 JST Failed to run sql/wcadb.sql
+Wed Aug 17 21:07:38 JST 2016 START
+Wed Aug 17 21:08:03 JST 2016 Successfully imported WCA_export070_20160817.sql.zip
+Wed Aug 17 21:08:03 JST 2016 START sql/wcadb.sql
+Wed Aug 17 21:15:33 JST 2016 END   sql/wcadb.sql
+Wed Aug 17 21:15:33 JST 2016 START sql/kinchranks.sql
+Wed Aug 17 21:15:40 JST 2016 Failed to run sql/kinchranks.sql
+2016年 8月 17日 水曜日 21:22:04 JST START
+2016年 8月 17日 水曜日 21:22:29 JST Successfully imported WCA_export070_20160817.sql.zip
+2016年 8月 17日 水曜日 21:22:29 JST START sql/wcadb.sql
+2016年 8月 17日 水曜日 21:29:26 JST END   sql/wcadb.sql
+2016年 8月 17日 水曜日 21:29:26 JST START sql/kinchranks.sql
+2016年 8月 17日 水曜日 21:34:15 JST END   sql/kinchranks.sql
+2016年 8月 17日 水曜日 21:34:15 JST START sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 21:34:16 JST END   sql/kinchranks_country.sql
+2016年 8月 17日 水曜日 21:34:16 JST START sql/awecc.sql
+2016年 8月 17日 水曜日 21:36:19 JST END   sql/awecc.sql
+2016年 8月 17日 水曜日 21:36:19 JST START awecc_update.php
+2016年 8月 17日 水曜日 21:36:22 JST END   awecc_update.php
+2016年 8月 17日 水曜日 21:36:22 JST START dbdump and import
+2016年 8月 17日 水曜日 21:38:07 JST END   dbdump and import
+2016年 8月 17日 水曜日 21:38:08 JST FINISH
+2016年 8月 17日 水曜日 21:43:02 JST No update.
+2016年 8月 17日 水曜日 22:43:03 JST No update.
+2016年 8月 17日 水曜日 23:43:01 JST No update.
+2016年 8月 18日 木曜日 00:43:02 JST No update.
+2016年 8月 18日 木曜日 01:43:03 JST No update.
+2016年 8月 18日 木曜日 02:43:03 JST No update.
+2016年 8月 18日 木曜日 03:43:02 JST No update.
+2016年 8月 18日 木曜日 04:43:02 JST No update.
+2016年 8月 18日 木曜日 05:43:02 JST No update.
+2016年 8月 18日 木曜日 06:43:02 JST No update.
+2016年 8月 18日 木曜日 07:43:04 JST No update.
+2016年 8月 18日 木曜日 08:43:05 JST No update.
+2016年 8月 18日 木曜日 09:43:04 JST No update.
+2016年 8月 18日 木曜日 10:43:02 JST No update.
+2016年 8月 18日 木曜日 11:43:03 JST No update.
+2016年 8月 18日 木曜日 12:43:02 JST START
+2016年 8月 18日 木曜日 12:43:32 JST Successfully imported WCA_export071_20160818.sql.zip
+2016年 8月 18日 木曜日 12:43:33 JST START sql/wcadb.sql
+2016年 8月 18日 木曜日 12:50:20 JST END   sql/wcadb.sql
+2016年 8月 18日 木曜日 12:50:20 JST START sql/kinchranks.sql
+2016年 8月 18日 木曜日 12:55:00 JST END   sql/kinchranks.sql
+2016年 8月 18日 木曜日 12:55:00 JST START sql/kinchranks_country.sql
+2016年 8月 18日 木曜日 12:55:01 JST END   sql/kinchranks_country.sql
+2016年 8月 18日 木曜日 12:55:01 JST START sql/awecc.sql
+2016年 8月 18日 木曜日 12:57:22 JST END   sql/awecc.sql
+2016年 8月 18日 木曜日 12:57:22 JST START awecc_update.php
+2016年 8月 18日 木曜日 12:57:25 JST END   awecc_update.php
+2016年 8月 18日 木曜日 12:57:25 JST START dbdump and import
+2016年 8月 18日 木曜日 12:59:07 JST END   dbdump and import
+2016年 8月 18日 木曜日 12:59:08 JST FINISH
+2016年 8月 18日 木曜日 13:43:04 JST No update.
+2016年 8月 18日 木曜日 14:43:04 JST No update.
+2016年 8月 18日 木曜日 15:43:02 JST No update.
+2016年 8月 18日 木曜日 16:43:02 JST No update.
+2016年 8月 18日 木曜日 17:43:02 JST No update.
+2016年 8月 18日 木曜日 18:43:03 JST No update.
+2016年 8月 18日 木曜日 19:43:02 JST No update.
+2016年 8月 18日 木曜日 20:43:02 JST No update.
+2016年 8月 18日 木曜日 21:43:02 JST No update.
+2016年 8月 18日 木曜日 22:43:01 JST No update.
+2016年 8月 18日 木曜日 23:43:03 JST No update.
+2016年 8月 19日 金曜日 00:43:02 JST No update.
+2016年 8月 19日 金曜日 01:43:02 JST No update.
+2016年 8月 19日 金曜日 02:43:03 JST No update.
+2016年 8月 19日 金曜日 03:43:03 JST No update.
+2016年 8月 19日 金曜日 04:43:02 JST No update.
+2016年 8月 19日 金曜日 05:43:06 JST No update.
+2016年 8月 19日 金曜日 06:43:02 JST No update.
+2016年 8月 19日 金曜日 07:43:02 JST No update.
+2016年 8月 19日 金曜日 08:43:02 JST No update.
+2016年 8月 19日 金曜日 09:43:04 JST No update.
+2016年 8月 19日 金曜日 10:43:02 JST No update.
+2016年 8月 19日 金曜日 11:43:02 JST No update.
+2016年 8月 19日 金曜日 12:43:01 JST No update.
+2016年 8月 19日 金曜日 13:43:02 JST START
+2016年 8月 19日 金曜日 13:43:31 JST Successfully imported WCA_export072_20160819.sql.zip
+2016年 8月 19日 金曜日 13:43:31 JST START sql/wcadb.sql
+2016年 8月 19日 金曜日 13:49:50 JST END   sql/wcadb.sql
+2016年 8月 19日 金曜日 13:49:50 JST START sql/kinchranks.sql
+2016年 8月 19日 金曜日 13:54:18 JST END   sql/kinchranks.sql
+2016年 8月 19日 金曜日 13:54:18 JST START sql/kinchranks_country.sql
+2016年 8月 19日 金曜日 13:54:19 JST END   sql/kinchranks_country.sql
+2016年 8月 19日 金曜日 13:54:19 JST START sql/awecc.sql
+2016年 8月 19日 金曜日 13:56:40 JST END   sql/awecc.sql
+2016年 8月 19日 金曜日 13:56:40 JST START awecc_update.php
+2016年 8月 19日 金曜日 13:56:43 JST END   awecc_update.php
+2016年 8月 19日 金曜日 13:56:43 JST START dbdump and import
+2016年 8月 19日 金曜日 13:58:20 JST END   dbdump and import
+2016年 8月 19日 金曜日 13:58:21 JST FINISH
+2016年 8月 19日 金曜日 14:43:02 JST No update.
+2016年 8月 19日 金曜日 15:43:02 JST No update.
+2016年 8月 19日 金曜日 16:43:04 JST No update.
+2016年 8月 19日 金曜日 17:43:02 JST No update.
+2016年 8月 19日 金曜日 18:43:02 JST No update.
+2016年 8月 19日 金曜日 19:43:01 JST No update.
+2016年 8月 19日 金曜日 20:43:02 JST No update.
+2016年 8月 19日 金曜日 21:43:03 JST No update.
+2016年 8月 19日 金曜日 22:43:07 JST No update.
+2016年 8月 19日 金曜日 23:43:02 JST No update.
+2016年 8月 20日 土曜日 00:43:02 JST No update.
+2016年 8月 20日 土曜日 01:43:02 JST No update.
+2016年 8月 20日 土曜日 02:43:02 JST No update.
+2016年 8月 20日 土曜日 03:43:02 JST No update.
+2016年 8月 20日 土曜日 04:43:02 JST No update.
+2016年 8月 20日 土曜日 05:43:02 JST No update.
+2016年 8月 20日 土曜日 06:43:01 JST No update.
+2016年 8月 20日 土曜日 07:43:02 JST No update.
+2016年 8月 20日 土曜日 08:43:01 JST No update.
+2016年 8月 20日 土曜日 09:43:04 JST No update.
+2016年 8月 20日 土曜日 10:43:02 JST No update.
+2016年 8月 20日 土曜日 11:43:02 JST No update.
+2016年 8月 20日 土曜日 12:43:02 JST No update.
+2016年 8月 20日 土曜日 13:43:04 JST No update.
+2016年 8月 20日 土曜日 14:43:02 JST No update.
+2016年 8月 20日 土曜日 15:43:05 JST No update.
+2016年 8月 20日 土曜日 16:43:02 JST No update.
+2016年 8月 20日 土曜日 17:43:02 JST No update.
+2016年 8月 20日 土曜日 18:43:02 JST No update.
+2016年 8月 20日 土曜日 19:43:01 JST No update.
+2016年 8月 20日 土曜日 20:43:04 JST No update.
+2016年 8月 20日 土曜日 21:43:01 JST No update.
+2016年 8月 20日 土曜日 22:43:03 JST No update.
+2016年 8月 20日 土曜日 23:43:02 JST No update.
+2016年 8月 21日 日曜日 00:43:02 JST No update.
+2016年 8月 21日 日曜日 01:43:06 JST No update.
+2016年 8月 21日 日曜日 02:43:02 JST No update.
+2016年 8月 21日 日曜日 03:43:03 JST No update.
+2016年 8月 21日 日曜日 04:43:04 JST No update.
+2016年 8月 21日 日曜日 05:43:01 JST No update.
+2016年 8月 21日 日曜日 06:43:03 JST No update.
+2016年 8月 21日 日曜日 07:43:02 JST No update.
+2016年 8月 21日 日曜日 08:43:02 JST No update.
+2016年 8月 21日 日曜日 09:44:02 JST No update.
+2016年 8月 21日 日曜日 10:44:02 JST No update.
+2016年 8月 21日 日曜日 11:44:02 JST No update.
+2016年 8月 21日 日曜日 12:44:02 JST No update.
+2016年 8月 21日 日曜日 13:44:03 JST No update.
+2016年 8月 21日 日曜日 14:44:03 JST No update.
+2016年 8月 21日 日曜日 15:44:08 JST No update.
+2016年 8月 21日 日曜日 16:44:02 JST No update.
+2016年 8月 21日 日曜日 17:44:05 JST No update.
+2016年 8月 21日 日曜日 18:44:02 JST No update.
+2016年 8月 21日 日曜日 19:44:05 JST No update.
+2016年 8月 21日 日曜日 20:44:03 JST No update.
+2016年 8月 21日 日曜日 21:44:04 JST No update.
+2016年 8月 21日 日曜日 22:44:02 JST No update.
+2016年 8月 21日 日曜日 23:44:02 JST No update.
+2016年 8月 22日 月曜日 00:44:02 JST No update.
+2016年 8月 22日 月曜日 01:44:04 JST No update.
+2016年 8月 22日 月曜日 02:44:02 JST No update.
+2016年 8月 22日 月曜日 03:44:02 JST No update.
+2016年 8月 22日 月曜日 04:44:02 JST No update.
+2016年 8月 22日 月曜日 05:44:02 JST No update.
+2016年 8月 22日 月曜日 06:44:02 JST No update.
+2016年 8月 22日 月曜日 07:44:02 JST No update.
+2016年 8月 22日 月曜日 08:44:02 JST No update.
+2016年 8月 22日 月曜日 09:44:02 JST No update.
+2016年 8月 22日 月曜日 10:44:02 JST No update.
+2016年 8月 22日 月曜日 11:44:02 JST No update.
+2016年 8月 22日 月曜日 12:44:03 JST START
+2016年 8月 22日 月曜日 12:44:33 JST Successfully imported WCA_export073_20160822.sql.zip
+2016年 8月 22日 月曜日 12:44:33 JST START sql/wcadb.sql
+2016年 8月 22日 月曜日 12:51:37 JST END   sql/wcadb.sql
+2016年 8月 22日 月曜日 12:51:37 JST START sql/kinchranks.sql
+2016年 8月 22日 月曜日 12:56:23 JST END   sql/kinchranks.sql
+2016年 8月 22日 月曜日 12:56:23 JST START sql/kinchranks_country.sql
+2016年 8月 22日 月曜日 12:56:25 JST END   sql/kinchranks_country.sql
+2016年 8月 22日 月曜日 12:56:25 JST START sql/awecc.sql
+2016年 8月 22日 月曜日 12:59:01 JST END   sql/awecc.sql
+2016年 8月 22日 月曜日 12:59:01 JST START awecc_update.php
+2016年 8月 22日 月曜日 12:59:04 JST END   awecc_update.php
+2016年 8月 22日 月曜日 12:59:04 JST START dbdump and import
+2016年 8月 22日 月曜日 13:00:50 JST END   dbdump and import
+2016年 8月 22日 月曜日 13:00:50 JST FINISH
+2016年 8月 22日 月曜日 13:44:02 JST START
+2016年 8月 22日 月曜日 13:44:32 JST Successfully imported WCA_export074_20160822.sql.zip
+2016年 8月 22日 月曜日 13:44:32 JST START sql/wcadb.sql
+2016年 8月 22日 月曜日 13:51:53 JST END   sql/wcadb.sql
+2016年 8月 22日 月曜日 13:51:53 JST START sql/kinchranks.sql
+2016年 8月 22日 月曜日 13:56:39 JST END   sql/kinchranks.sql
+2016年 8月 22日 月曜日 13:56:39 JST START sql/kinchranks_country.sql
+2016年 8月 22日 月曜日 13:56:41 JST END   sql/kinchranks_country.sql
+2016年 8月 22日 月曜日 13:56:41 JST START sql/awecc.sql
+2016年 8月 22日 月曜日 13:59:29 JST END   sql/awecc.sql
+2016年 8月 22日 月曜日 13:59:29 JST START awecc_update.php
+2016年 8月 22日 月曜日 13:59:32 JST END   awecc_update.php
+2016年 8月 22日 月曜日 13:59:32 JST START dbdump and import
+2016年 8月 22日 月曜日 14:01:18 JST END   dbdump and import
+2016年 8月 22日 月曜日 14:01:19 JST FINISH
+2016年 8月 22日 月曜日 14:43:02 JST No update.
+2016年 8月 22日 月曜日 15:43:03 JST No update.
+2016年 8月 22日 月曜日 16:43:02 JST No update.
+2016年 8月 22日 月曜日 17:43:02 JST No update.
+2016年 8月 22日 月曜日 18:43:04 JST No update.
+2016年 8月 22日 月曜日 19:43:02 JST No update.
+2016年 8月 22日 月曜日 20:43:02 JST No update.
+2016年 8月 22日 月曜日 21:43:04 JST No update.
+2016年 8月 22日 月曜日 22:43:03 JST No update.
+2016年 8月 22日 月曜日 23:43:02 JST No update.
+2016年 8月 23日 火曜日 00:43:06 JST No update.
+2016年 8月 23日 火曜日 01:43:02 JST No update.
+2016年 8月 23日 火曜日 02:43:04 JST No update.
+2016年 8月 23日 火曜日 03:43:02 JST No update.
+2016年 8月 23日 火曜日 04:43:02 JST No update.
+2016年 8月 23日 火曜日 05:43:01 JST No update.
+2016年 8月 23日 火曜日 06:43:02 JST No update.
+2016年 8月 23日 火曜日 07:43:02 JST No update.
+2016年 8月 23日 火曜日 08:43:02 JST No update.
+2016年 8月 23日 火曜日 09:43:02 JST No update.
+2016年 8月 23日 火曜日 10:43:03 JST No update.
+2016年 8月 23日 火曜日 11:43:02 JST No update.
+2016年 8月 23日 火曜日 12:43:02 JST No update.
+2016年 8月 23日 火曜日 13:43:02 JST No update.
+2016年 8月 23日 火曜日 14:43:01 JST No update.
+2016年 8月 23日 火曜日 15:43:01 JST No update.
+2016年 8月 23日 火曜日 16:43:04 JST No update.
+2016年 8月 23日 火曜日 17:43:02 JST No update.
+2016年 8月 23日 火曜日 18:43:03 JST No update.
+2016年 8月 23日 火曜日 19:43:01 JST No update.
+2016年 8月 23日 火曜日 20:43:03 JST No update.
+2016年 8月 23日 火曜日 21:43:03 JST No update.
+2016年 8月 23日 火曜日 22:43:01 JST No update.
+2016年 8月 23日 火曜日 23:43:01 JST No update.
+2016年 8月 24日 水曜日 00:43:02 JST No update.
+2016年 8月 24日 水曜日 01:43:03 JST No update.
+2016年 8月 24日 水曜日 02:43:01 JST No update.
+2016年 8月 24日 水曜日 03:43:02 JST No update.
+2016年 8月 24日 水曜日 04:43:02 JST No update.
+2016年 8月 24日 水曜日 05:43:02 JST No update.
+2016年 8月 24日 水曜日 06:43:04 JST No update.
+2016年 8月 24日 水曜日 07:43:02 JST No update.
+2016年 8月 24日 水曜日 08:43:04 JST No update.
+2016年 8月 24日 水曜日 09:43:01 JST No update.
+2016年 8月 24日 水曜日 10:43:02 JST No update.
+2016年 8月 24日 水曜日 11:43:02 JST No update.
+2016年 8月 24日 水曜日 12:43:01 JST No update.
+2016年 8月 24日 水曜日 13:43:04 JST START
+2016年 8月 24日 水曜日 13:43:35 JST Successfully imported WCA_export076_20160824.sql.zip
+2016年 8月 24日 水曜日 13:43:35 JST START sql/wcadb.sql
+2016年 8月 24日 水曜日 13:50:35 JST END   sql/wcadb.sql
+2016年 8月 24日 水曜日 13:50:35 JST START sql/kinchranks.sql
+2016年 8月 24日 水曜日 13:55:24 JST END   sql/kinchranks.sql
+2016年 8月 24日 水曜日 13:55:24 JST START sql/kinchranks_country.sql
+2016年 8月 24日 水曜日 13:55:26 JST END   sql/kinchranks_country.sql
+2016年 8月 24日 水曜日 13:55:26 JST START sql/awecc.sql
+2016年 8月 24日 水曜日 13:57:57 JST END   sql/awecc.sql
+2016年 8月 24日 水曜日 13:57:57 JST START awecc_update.php
+2016年 8月 24日 水曜日 13:58:01 JST END   awecc_update.php
+2016年 8月 24日 水曜日 13:58:01 JST START dbdump and import
+2016年 8月 24日 水曜日 13:59:46 JST END   dbdump and import
+2016年 8月 24日 水曜日 13:59:47 JST FINISH
+2016年 8月 24日 水曜日 14:43:02 JST No update.
+2016年 8月 24日 水曜日 15:43:02 JST No update.
+2016年 8月 24日 水曜日 16:43:02 JST No update.
+2016年 8月 24日 水曜日 17:43:05 JST No update.
+2016年 8月 24日 水曜日 18:43:03 JST No update.
+2016年 8月 24日 水曜日 19:43:02 JST No update.
+2016年 8月 24日 水曜日 20:43:02 JST No update.
+2016年 8月 24日 水曜日 21:43:04 JST No update.
+2016年 8月 24日 水曜日 22:43:02 JST No update.
+2016年 8月 24日 水曜日 23:43:01 JST No update.
+2016年 8月 25日 木曜日 00:43:08 JST No update.
+2016年 8月 25日 木曜日 01:43:04 JST No update.
+2016年 8月 25日 木曜日 02:43:02 JST No update.
+2016年 8月 25日 木曜日 03:43:04 JST No update.
+2016年 8月 25日 木曜日 04:43:03 JST No update.
+2016年 8月 25日 木曜日 05:43:01 JST No update.
+2016年 8月 25日 木曜日 06:43:01 JST No update.
+2016年 8月 25日 木曜日 07:43:01 JST No update.
+2016年 8月 25日 木曜日 08:43:02 JST No update.
+2016年 8月 25日 木曜日 09:43:02 JST No update.
+2016年 8月 25日 木曜日 10:43:02 JST No update.
+2016年 8月 25日 木曜日 11:43:02 JST No update.
+2016年 8月 25日 木曜日 12:43:02 JST No update.
+2016年 8月 25日 木曜日 13:43:01 JST No update.
+2016年 8月 25日 木曜日 14:43:02 JST No update.
+2016年 8月 25日 木曜日 15:43:01 JST No update.
+2016年 8月 25日 木曜日 16:43:02 JST No update.
+2016年 8月 25日 木曜日 17:43:01 JST No update.
+2016年 8月 25日 木曜日 18:43:03 JST No update.
+2016年 8月 25日 木曜日 19:43:02 JST No update.
+2016年 8月 25日 木曜日 20:43:08 JST No update.
+2016年 8月 25日 木曜日 21:43:03 JST No update.
+2016年 8月 25日 木曜日 22:43:01 JST No update.
+2016年 8月 25日 木曜日 23:43:02 JST No update.
+2016年 8月 26日 金曜日 00:43:02 JST No update.
+2016年 8月 26日 金曜日 01:43:04 JST No update.
+2016年 8月 26日 金曜日 02:43:04 JST No update.
+2016年 8月 26日 金曜日 03:43:02 JST No update.
+2016年 8月 26日 金曜日 04:43:08 JST No update.
+2016年 8月 26日 金曜日 05:43:04 JST No update.
+2016年 8月 26日 金曜日 06:43:06 JST No update.
+2016年 8月 26日 金曜日 07:43:02 JST No update.
+2016年 8月 26日 金曜日 08:43:02 JST No update.
+2016年 8月 26日 金曜日 09:43:01 JST No update.
+2016年 8月 26日 金曜日 10:43:02 JST No update.
+2016年 8月 26日 金曜日 11:43:01 JST No update.
+2016年 8月 26日 金曜日 12:43:02 JST No update.
+2016年 8月 26日 金曜日 13:43:02 JST START
+2016年 8月 26日 金曜日 13:43:33 JST Successfully imported WCA_export077_20160826.sql.zip
+2016年 8月 26日 金曜日 13:43:33 JST START sql/wcadb.sql
+2016年 8月 26日 金曜日 13:50:32 JST END   sql/wcadb.sql
+2016年 8月 26日 金曜日 13:50:32 JST START sql/kinchranks.sql
+2016年 8月 26日 金曜日 13:55:06 JST END   sql/kinchranks.sql
+2016年 8月 26日 金曜日 13:55:06 JST START sql/kinchranks_country.sql
+2016年 8月 26日 金曜日 13:55:08 JST END   sql/kinchranks_country.sql
+2016年 8月 26日 金曜日 13:55:08 JST START sql/awecc.sql
+2016年 8月 26日 金曜日 13:58:08 JST END   sql/awecc.sql
+2016年 8月 26日 金曜日 13:58:08 JST START awecc_update.php
+2016年 8月 26日 金曜日 13:58:11 JST END   awecc_update.php
+2016年 8月 26日 金曜日 13:58:11 JST START dbdump and import
+2016年 8月 26日 金曜日 13:59:47 JST END   dbdump and import
+2016年 8月 26日 金曜日 13:59:48 JST FINISH
+2016年 8月 26日 金曜日 14:43:03 JST No update.
+2016年 8月 26日 金曜日 15:43:02 JST No update.
+2016年 8月 26日 金曜日 16:43:01 JST No update.
+2016年 8月 26日 金曜日 17:43:04 JST No update.
+2016年 8月 26日 金曜日 18:43:02 JST No update.
+2016年 8月 26日 金曜日 19:43:02 JST No update.
+2016年 8月 26日 金曜日 20:43:02 JST No update.
+2016年 8月 26日 金曜日 21:43:05 JST No update.
+2016年 8月 26日 金曜日 22:43:01 JST No update.
+2016年 8月 26日 金曜日 23:43:02 JST No update.
+2016年 8月 27日 土曜日 00:43:01 JST No update.
+2016年 8月 27日 土曜日 01:43:02 JST No update.
+2016年 8月 27日 土曜日 02:43:04 JST No update.
+2016年 8月 27日 土曜日 03:43:02 JST No update.
+2016年 8月 27日 土曜日 04:43:02 JST No update.
+2016年 8月 27日 土曜日 05:43:02 JST No update.
+2016年 8月 27日 土曜日 06:43:02 JST No update.
+2016年 8月 27日 土曜日 07:43:03 JST No update.
+2016年 8月 27日 土曜日 08:43:03 JST No update.
+2016年 8月 27日 土曜日 09:43:02 JST No update.
+2016年 8月 27日 土曜日 10:43:05 JST No update.
+2016年 8月 27日 土曜日 11:43:01 JST No update.
+2016年 8月 27日 土曜日 12:43:02 JST No update.
+2016年 8月 27日 土曜日 13:43:01 JST No update.
+2016年 8月 27日 土曜日 14:43:03 JST No update.
+2016年 8月 27日 土曜日 15:43:06 JST No update.
+2016年 8月 27日 土曜日 16:43:02 JST No update.
+2016年 8月 27日 土曜日 17:43:02 JST No update.
+2016年 8月 27日 土曜日 18:43:02 JST No update.
+2016年 8月 27日 土曜日 19:43:02 JST No update.
+2016年 8月 27日 土曜日 20:43:02 JST No update.
+2016年 8月 27日 土曜日 21:43:04 JST No update.
+2016年 8月 27日 土曜日 22:43:03 JST No update.
+2016年 8月 27日 土曜日 23:43:01 JST No update.
+2016年 8月 28日 日曜日 00:43:01 JST No update.
+2016年 8月 28日 日曜日 01:43:02 JST No update.
+2016年 8月 28日 日曜日 02:43:01 JST No update.
+2016年 8月 28日 日曜日 03:43:05 JST No update.
+2016年 8月 28日 日曜日 04:43:01 JST No update.
+2016年 8月 28日 日曜日 05:43:03 JST No update.
+2016年 8月 28日 日曜日 06:43:02 JST No update.
+2016年 8月 28日 日曜日 07:43:04 JST No update.
+2016年 8月 28日 日曜日 08:43:04 JST No update.
+2016年 8月 28日 日曜日 09:43:01 JST No update.
+2016年 8月 28日 日曜日 10:43:03 JST No update.
+2016年 8月 28日 日曜日 11:43:02 JST No update.
+2016年 8月 28日 日曜日 12:43:04 JST No update.
+2016年 8月 28日 日曜日 13:43:05 JST START
+2016年 8月 28日 日曜日 13:43:33 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 13:43:33 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 13:50:51 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 13:50:51 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 13:55:40 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 13:55:40 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 13:55:42 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 13:55:42 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 13:59:11 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 13:59:11 JST START awecc_update.php
+2016年 8月 28日 日曜日 13:59:15 JST END   awecc_update.php
+2016年 8月 28日 日曜日 13:59:15 JST START dbdump and import
+2016年 8月 28日 日曜日 14:43:02 JST START
+2016年 8月 28日 日曜日 14:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 14:43:26 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 14:50:16 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 14:50:16 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 14:54:40 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 14:54:40 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 14:54:41 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 14:54:41 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 14:57:32 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 14:57:32 JST START awecc_update.php
+2016年 8月 28日 日曜日 14:57:35 JST END   awecc_update.php
+2016年 8月 28日 日曜日 14:57:35 JST START dbdump and import
+2016年 8月 28日 日曜日 15:43:04 JST START
+2016年 8月 28日 日曜日 15:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 15:43:26 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 15:50:20 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 15:50:20 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 15:54:44 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 15:54:44 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 15:54:45 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 15:54:45 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 15:58:37 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 15:58:37 JST START awecc_update.php
+2016年 8月 28日 日曜日 15:58:41 JST END   awecc_update.php
+2016年 8月 28日 日曜日 15:58:41 JST START dbdump and import
+2016年 8月 28日 日曜日 16:43:02 JST START
+2016年 8月 28日 日曜日 16:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 16:43:26 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 16:51:00 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 16:51:00 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 16:55:50 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 16:55:50 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 16:55:52 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 16:55:52 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 17:00:24 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 17:00:24 JST START awecc_update.php
+2016年 8月 28日 日曜日 17:00:28 JST END   awecc_update.php
+2016年 8月 28日 日曜日 17:00:28 JST START dbdump and import
+2016年 8月 28日 日曜日 17:43:02 JST START
+2016年 8月 28日 日曜日 17:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 17:43:26 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 17:51:14 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 17:51:14 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 17:55:43 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 17:55:43 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 17:55:45 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 17:55:45 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 18:00:13 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 18:00:13 JST START awecc_update.php
+2016年 8月 28日 日曜日 18:00:17 JST END   awecc_update.php
+2016年 8月 28日 日曜日 18:00:17 JST START dbdump and import
+2016年 8月 28日 日曜日 18:43:01 JST START
+2016年 8月 28日 日曜日 18:43:24 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 18:43:24 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 18:50:35 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 18:50:35 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 18:54:59 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 18:54:59 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 18:55:01 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 18:55:01 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 18:59:28 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 18:59:28 JST START awecc_update.php
+2016年 8月 28日 日曜日 18:59:32 JST END   awecc_update.php
+2016年 8月 28日 日曜日 18:59:32 JST START dbdump and import
+2016年 8月 28日 日曜日 19:43:01 JST START
+2016年 8月 28日 日曜日 19:43:30 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 19:43:30 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 19:50:52 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 19:50:52 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 19:55:21 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 19:55:21 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 19:55:22 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 19:55:22 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 19:59:46 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 19:59:46 JST START awecc_update.php
+2016年 8月 28日 日曜日 19:59:50 JST END   awecc_update.php
+2016年 8月 28日 日曜日 19:59:50 JST START dbdump and import
+2016年 8月 28日 日曜日 20:43:02 JST START
+2016年 8月 28日 日曜日 20:43:25 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 20:43:25 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 20:50:31 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 20:50:31 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 20:55:02 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 20:55:02 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 20:55:04 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 20:55:04 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 20:59:11 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 20:59:11 JST START awecc_update.php
+2016年 8月 28日 日曜日 20:59:15 JST END   awecc_update.php
+2016年 8月 28日 日曜日 20:59:15 JST START dbdump and import
+2016年 8月 28日 日曜日 21:43:04 JST START
+2016年 8月 28日 日曜日 21:43:29 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 21:43:29 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 21:51:02 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 21:51:02 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 21:55:48 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 21:55:48 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 21:55:50 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 21:55:50 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 22:00:39 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 22:00:39 JST START awecc_update.php
+2016年 8月 28日 日曜日 22:00:44 JST END   awecc_update.php
+2016年 8月 28日 日曜日 22:00:44 JST START dbdump and import
+2016年 8月 28日 日曜日 22:43:02 JST START
+2016年 8月 28日 日曜日 22:43:25 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 22:43:25 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 22:50:45 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 22:50:45 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 22:55:10 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 22:55:10 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 22:55:11 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 22:55:11 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 22:59:27 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 22:59:27 JST START awecc_update.php
+2016年 8月 28日 日曜日 22:59:31 JST END   awecc_update.php
+2016年 8月 28日 日曜日 22:59:31 JST START dbdump and import
+2016年 8月 28日 日曜日 23:43:02 JST START
+2016年 8月 28日 日曜日 23:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 28日 日曜日 23:43:26 JST START sql/wcadb.sql
+2016年 8月 28日 日曜日 23:50:52 JST END   sql/wcadb.sql
+2016年 8月 28日 日曜日 23:50:52 JST START sql/kinchranks.sql
+2016年 8月 28日 日曜日 23:55:17 JST END   sql/kinchranks.sql
+2016年 8月 28日 日曜日 23:55:17 JST START sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 23:55:18 JST END   sql/kinchranks_country.sql
+2016年 8月 28日 日曜日 23:55:18 JST START sql/awecc.sql
+2016年 8月 28日 日曜日 23:59:47 JST END   sql/awecc.sql
+2016年 8月 28日 日曜日 23:59:47 JST START awecc_update.php
+2016年 8月 28日 日曜日 23:59:52 JST END   awecc_update.php
+2016年 8月 28日 日曜日 23:59:52 JST START dbdump and import
+2016年 8月 29日 月曜日 00:43:02 JST START
+2016年 8月 29日 月曜日 00:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 00:43:26 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 00:50:57 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 00:50:57 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 00:55:33 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 00:55:34 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 00:55:35 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 00:55:35 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 00:59:51 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 00:59:51 JST START awecc_update.php
+2016年 8月 29日 月曜日 00:59:55 JST END   awecc_update.php
+2016年 8月 29日 月曜日 00:59:55 JST START dbdump and import
+2016年 8月 29日 月曜日 01:43:02 JST START
+2016年 8月 29日 月曜日 01:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 01:43:26 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 01:50:31 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 01:50:31 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 01:55:02 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 01:55:02 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 01:55:04 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 01:55:04 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 01:59:28 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 01:59:28 JST START awecc_update.php
+2016年 8月 29日 月曜日 01:59:33 JST END   awecc_update.php
+2016年 8月 29日 月曜日 01:59:33 JST START dbdump and import
+2016年 8月 29日 月曜日 02:43:02 JST START
+2016年 8月 29日 月曜日 02:43:25 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 02:43:25 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 02:50:57 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 02:50:57 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 02:55:39 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 02:55:39 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 02:55:40 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 02:55:40 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 03:01:11 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 03:01:11 JST START awecc_update.php
+2016年 8月 29日 月曜日 03:01:16 JST END   awecc_update.php
+2016年 8月 29日 月曜日 03:01:16 JST START dbdump and import
+2016年 8月 29日 月曜日 03:43:02 JST START
+2016年 8月 29日 月曜日 03:43:29 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 03:43:29 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 03:51:34 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 03:51:34 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 03:56:27 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 03:56:27 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 03:56:29 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 03:56:29 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 04:02:15 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 04:02:15 JST START awecc_update.php
+2016年 8月 29日 月曜日 04:02:19 JST END   awecc_update.php
+2016年 8月 29日 月曜日 04:02:19 JST START dbdump and import
+2016年 8月 29日 月曜日 04:43:01 JST START
+2016年 8月 29日 月曜日 04:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 04:43:26 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 04:51:28 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 04:51:28 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 04:56:22 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 04:56:22 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 04:56:24 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 04:56:24 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 05:01:51 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 05:01:51 JST START awecc_update.php
+2016年 8月 29日 月曜日 05:01:56 JST END   awecc_update.php
+2016年 8月 29日 月曜日 05:01:56 JST START dbdump and import
+2016年 8月 29日 月曜日 05:43:04 JST START
+2016年 8月 29日 月曜日 05:43:30 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 05:43:30 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 05:51:11 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 05:51:11 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 05:55:38 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 05:55:38 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 05:55:39 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 05:55:39 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 06:00:37 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 06:00:37 JST START awecc_update.php
+2016年 8月 29日 月曜日 06:00:41 JST END   awecc_update.php
+2016年 8月 29日 月曜日 06:00:41 JST START dbdump and import
+2016年 8月 29日 月曜日 06:43:04 JST START
+2016年 8月 29日 月曜日 06:43:28 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 06:43:28 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 06:51:07 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 06:51:07 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 06:55:35 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 06:55:35 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 06:55:36 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 06:55:36 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 07:00:28 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 07:00:28 JST START awecc_update.php
+2016年 8月 29日 月曜日 07:00:33 JST END   awecc_update.php
+2016年 8月 29日 月曜日 07:00:33 JST START dbdump and import
+2016年 8月 29日 月曜日 07:43:02 JST START
+2016年 8月 29日 月曜日 07:43:27 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 07:43:27 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 07:50:58 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 07:50:58 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 07:55:25 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 07:55:25 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 07:55:26 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 07:55:26 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 08:00:02 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 08:00:02 JST START awecc_update.php
+2016年 8月 29日 月曜日 08:00:07 JST END   awecc_update.php
+2016年 8月 29日 月曜日 08:00:07 JST START dbdump and import
+2016年 8月 29日 月曜日 08:43:05 JST START
+2016年 8月 29日 月曜日 08:43:29 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 08:43:29 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 08:51:12 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 08:51:12 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 08:55:51 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 08:55:51 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 08:55:53 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 08:55:53 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 09:00:56 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 09:00:56 JST START awecc_update.php
+2016年 8月 29日 月曜日 09:01:00 JST END   awecc_update.php
+2016年 8月 29日 月曜日 09:01:00 JST START dbdump and import
+2016年 8月 29日 月曜日 09:43:02 JST START
+2016年 8月 29日 月曜日 09:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 09:43:26 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 09:50:50 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 09:50:50 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 09:55:20 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 09:55:20 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 09:55:22 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 09:55:22 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 10:00:40 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 10:00:40 JST START awecc_update.php
+2016年 8月 29日 月曜日 10:00:44 JST END   awecc_update.php
+2016年 8月 29日 月曜日 10:00:44 JST START dbdump and import
+2016年 8月 29日 月曜日 10:43:03 JST START
+2016年 8月 29日 月曜日 10:43:26 JST Successfully imported WCA_export078_20160828.sql.zip
+2016年 8月 29日 月曜日 10:43:26 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 10:50:13 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 10:50:13 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 10:54:49 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 10:54:49 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 10:54:51 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 10:54:51 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 10:57:35 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 10:57:35 JST START awecc_update.php
+2016年 8月 29日 月曜日 10:57:38 JST END   awecc_update.php
+2016年 8月 29日 月曜日 10:57:38 JST START dbdump and import
+2016年 8月 29日 月曜日 10:59:16 JST END   dbdump and import
+2016年 8月 29日 月曜日 10:59:17 JST FINISH
+2016年 8月 29日 月曜日 11:43:06 JST No update.
+2016年 8月 29日 月曜日 12:43:02 JST No update.
+2016年 8月 29日 月曜日 13:43:02 JST START
+2016年 8月 29日 月曜日 13:43:30 JST Successfully imported WCA_export079_20160829.sql.zip
+2016年 8月 29日 月曜日 13:43:30 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 13:50:40 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 13:50:40 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 13:55:26 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 13:55:26 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 13:55:27 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 13:55:27 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 13:59:33 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 13:59:33 JST START awecc_update.php
+2016年 8月 29日 月曜日 13:59:37 JST END   awecc_update.php
+2016年 8月 29日 月曜日 13:59:37 JST START dbdump and import
+2016年 8月 29日 月曜日 14:01:20 JST END   dbdump and import
+2016年 8月 29日 月曜日 14:01:21 JST FINISH
+2016年 8月 29日 月曜日 14:43:07 JST No update.
+2016年 8月 29日 月曜日 15:43:02 JST START
+2016年 8月 29日 月曜日 15:43:30 JST Successfully imported WCA_export080_20160829.sql.zip
+2016年 8月 29日 月曜日 15:43:30 JST START sql/wcadb.sql
+2016年 8月 29日 月曜日 15:50:09 JST END   sql/wcadb.sql
+2016年 8月 29日 月曜日 15:50:09 JST START sql/kinchranks.sql
+2016年 8月 29日 月曜日 15:54:48 JST END   sql/kinchranks.sql
+2016年 8月 29日 月曜日 15:54:48 JST START sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 15:54:49 JST END   sql/kinchranks_country.sql
+2016年 8月 29日 月曜日 15:54:49 JST START sql/awecc.sql
+2016年 8月 29日 月曜日 15:57:36 JST END   sql/awecc.sql
+2016年 8月 29日 月曜日 15:57:36 JST START awecc_update.php
+2016年 8月 29日 月曜日 15:57:40 JST END   awecc_update.php
+2016年 8月 29日 月曜日 15:57:40 JST START dbdump and import
+2016年 8月 29日 月曜日 15:59:18 JST END   dbdump and import
+2016年 8月 29日 月曜日 15:59:19 JST FINISH
+2016年 8月 29日 月曜日 16:43:01 JST No update.
+2016年 8月 29日 月曜日 17:43:02 JST No update.
+2016年 8月 29日 月曜日 18:43:01 JST No update.
+2016年 8月 29日 月曜日 19:43:03 JST No update.
+2016年 8月 29日 月曜日 20:43:03 JST No update.
+2016年 8月 29日 月曜日 21:43:01 JST No update.
+2016年 8月 29日 月曜日 22:43:04 JST No update.
+2016年 8月 29日 月曜日 23:43:04 JST No update.
+2016年 8月 30日 火曜日 00:43:01 JST No update.
+2016年 8月 30日 火曜日 01:43:03 JST No update.
+2016年 8月 30日 火曜日 02:43:02 JST No update.
+2016年 8月 30日 火曜日 03:43:02 JST No update.
+2016年 8月 30日 火曜日 04:43:02 JST No update.
+2016年 8月 30日 火曜日 05:43:01 JST No update.
+2016年 8月 30日 火曜日 06:43:04 JST No update.
+2016年 8月 30日 火曜日 07:43:04 JST No update.
+2016年 8月 30日 火曜日 08:43:01 JST No update.
+2016年 8月 30日 火曜日 09:43:02 JST No update.
+2016年 8月 30日 火曜日 10:43:02 JST No update.
+2016年 8月 30日 火曜日 11:43:01 JST No update.
+2016年 8月 30日 火曜日 12:43:02 JST No update.
+2016年 8月 30日 火曜日 13:43:03 JST No update.
+2016年 8月 30日 火曜日 14:43:01 JST No update.
+2016年 8月 30日 火曜日 15:43:02 JST No update.
+2016年 8月 30日 火曜日 16:43:06 JST No update.
+2016年 8月 30日 火曜日 17:43:02 JST No update.
+2016年 8月 30日 火曜日 18:43:02 JST No update.
+2016年 8月 30日 火曜日 19:43:01 JST No update.
+2016年 8月 30日 火曜日 20:43:02 JST No update.
+2016年 8月 30日 火曜日 21:43:05 JST No update.
+2016年 8月 30日 火曜日 22:43:04 JST No update.
+2016年 8月 30日 火曜日 23:43:08 JST No update.
+2016年 8月 31日 水曜日 00:43:02 JST No update.
+2016年 8月 31日 水曜日 01:43:02 JST No update.
+2016年 8月 31日 水曜日 02:43:02 JST No update.
+2016年 8月 31日 水曜日 03:43:02 JST No update.
+2016年 8月 31日 水曜日 04:43:02 JST No update.
+2016年 8月 31日 水曜日 05:43:02 JST No update.
+2016年 8月 31日 水曜日 06:43:02 JST No update.
+2016年 8月 31日 水曜日 07:43:02 JST No update.
+2016年 8月 31日 水曜日 08:43:02 JST No update.
+2016年 8月 31日 水曜日 09:43:02 JST No update.
+2016年 8月 31日 水曜日 10:43:05 JST No update.
+2016年 8月 31日 水曜日 11:43:02 JST No update.
+2016年 8月 31日 水曜日 12:43:02 JST No update.
+2016年 8月 31日 水曜日 13:43:02 JST START
+2016年 8月 31日 水曜日 13:43:33 JST Successfully imported WCA_export081_20160831.sql.zip
+2016年 8月 31日 水曜日 13:43:33 JST START sql/wcadb.sql
+2016年 8月 31日 水曜日 13:50:21 JST END   sql/wcadb.sql
+2016年 8月 31日 水曜日 13:50:21 JST START sql/kinchranks.sql
+2016年 8月 31日 水曜日 13:55:04 JST END   sql/kinchranks.sql
+2016年 8月 31日 水曜日 13:55:04 JST START sql/kinchranks_country.sql
+2016年 8月 31日 水曜日 13:55:06 JST END   sql/kinchranks_country.sql
+2016年 8月 31日 水曜日 13:55:06 JST START sql/awecc.sql
+2016年 8月 31日 水曜日 13:57:35 JST END   sql/awecc.sql
+2016年 8月 31日 水曜日 13:57:35 JST START awecc_update.php
+2016年 8月 31日 水曜日 13:57:39 JST END   awecc_update.php
+2016年 8月 31日 水曜日 13:57:39 JST START dbdump and import
+2016年 8月 31日 水曜日 14:43:03 JST START
+2016年 8月 31日 水曜日 14:43:30 JST Successfully imported WCA_export081_20160831.sql.zip
+2016年 8月 31日 水曜日 14:43:30 JST START sql/wcadb.sql
+2016年 8月 31日 水曜日 14:51:50 JST END   sql/wcadb.sql
+2016年 8月 31日 水曜日 14:51:50 JST START sql/kinchranks.sql
+2016年 8月 31日 水曜日 14:56:53 JST END   sql/kinchranks.sql
+2016年 8月 31日 水曜日 14:56:53 JST START sql/kinchranks_country.sql
+2016年 8月 31日 水曜日 14:56:54 JST END   sql/kinchranks_country.sql
+2016年 8月 31日 水曜日 14:56:54 JST START sql/awecc.sql
+2016年 8月 31日 水曜日 14:59:44 JST END   sql/awecc.sql
+2016年 8月 31日 水曜日 14:59:44 JST START awecc_update.php
+2016年 8月 31日 水曜日 14:59:48 JST END   awecc_update.php
+2016年 8月 31日 水曜日 14:59:48 JST START dbdump and import
+2016年 8月 31日 水曜日 15:00:00 JST END   dbdump and import
+2016年 8月 31日 水曜日 15:00:01 JST FINISH
+2016年 8月 31日 水曜日 15:43:02 JST No update.
+2016年 8月 31日 水曜日 16:43:02 JST No update.
+2016年 8月 31日 水曜日 17:43:01 JST No update.
+2016年 8月 31日 水曜日 18:43:01 JST No update.
+2016年 8月 31日 水曜日 19:43:01 JST No update.
+2016年 8月 31日 水曜日 20:43:01 JST No update.
+2016年 8月 31日 水曜日 21:43:02 JST No update.
+2016年 8月 31日 水曜日 22:43:04 JST No update.
+2016年 8月 31日 水曜日 23:43:02 JST No update.
+2016年 9月 1日 木曜日 00:43:04 JST No update.
+2016年 9月 1日 木曜日 01:43:02 JST No update.
+2016年 9月 1日 木曜日 02:43:06 JST No update.
+2016年 9月 1日 木曜日 03:43:04 JST No update.
+2016年 9月 1日 木曜日 04:43:01 JST No update.
+2016年 9月 1日 木曜日 05:43:01 JST No update.
+2016年 9月 1日 木曜日 06:43:02 JST No update.
+2016年 9月 1日 木曜日 07:43:02 JST No update.
+2016年 9月 1日 木曜日 08:43:02 JST No update.
+2016年 9月 1日 木曜日 09:43:04 JST No update.
+2016年 9月 1日 木曜日 10:43:02 JST No update.
+2016年 9月 1日 木曜日 11:43:02 JST No update.
+2016年 9月 1日 木曜日 12:43:04 JST No update.
+2016年 9月 1日 木曜日 13:43:02 JST No update.
+2016年 9月 1日 木曜日 14:43:02 JST No update.
+2016年 9月 1日 木曜日 15:43:02 JST No update.
+2016年 9月 1日 木曜日 16:43:04 JST No update.
+2016年 9月 1日 木曜日 17:43:02 JST No update.
+2016年 9月 1日 木曜日 18:43:02 JST No update.
+2016年 9月 1日 木曜日 19:43:02 JST No update.
+2016年 9月 1日 木曜日 20:43:03 JST No update.
+2016年 9月 1日 木曜日 21:43:04 JST No update.
+2016年 9月 1日 木曜日 22:43:02 JST No update.
+2016年 9月 1日 木曜日 23:43:02 JST No update.
+2016年 9月 2日 金曜日 00:43:01 JST No update.
+2016年 9月 2日 金曜日 01:43:04 JST No update.
+2016年 9月 2日 金曜日 02:43:02 JST No update.
+2016年 9月 2日 金曜日 03:43:02 JST No update.
+2016年 9月 2日 金曜日 04:43:02 JST No update.
+2016年 9月 2日 金曜日 05:43:02 JST No update.
+2016年 9月 2日 金曜日 06:43:02 JST No update.
+2016年 9月 2日 金曜日 07:43:03 JST No update.
+2016年 9月 2日 金曜日 08:43:05 JST No update.
+2016年 9月 2日 金曜日 09:43:02 JST No update.
+2016年 9月 2日 金曜日 10:43:01 JST No update.
+2016年 9月 2日 金曜日 11:43:01 JST No update.
+2016年 9月 2日 金曜日 12:43:02 JST No update.
+2016年 9月 2日 金曜日 13:43:02 JST START
+2016年 9月 2日 金曜日 13:43:34 JST Successfully imported WCA_export082_20160902.sql.zip
+2016年 9月 2日 金曜日 13:43:34 JST START sql/wcadb.sql
+2016年 9月 2日 金曜日 13:50:04 JST END   sql/wcadb.sql
+2016年 9月 2日 金曜日 13:50:04 JST START sql/kinchranks.sql
+2016年 9月 2日 金曜日 13:54:56 JST END   sql/kinchranks.sql
+2016年 9月 2日 金曜日 13:54:56 JST START sql/kinchranks_country.sql
+2016年 9月 2日 金曜日 13:54:58 JST END   sql/kinchranks_country.sql
+2016年 9月 2日 金曜日 13:54:58 JST START sql/awecc.sql
+2016年 9月 2日 金曜日 13:57:13 JST END   sql/awecc.sql
+2016年 9月 2日 金曜日 13:57:13 JST START awecc_update.php
+2016年 9月 2日 金曜日 13:57:16 JST END   awecc_update.php
+2016年 9月 2日 金曜日 13:57:16 JST START dbdump and import
+2016年 9月 2日 金曜日 13:58:58 JST END   dbdump and import
+2016年 9月 2日 金曜日 13:58:58 JST FINISH
+2016年 9月 2日 金曜日 14:43:01 JST No update.
+2016年 9月 2日 金曜日 15:43:01 JST No update.
+2016年 9月 2日 金曜日 16:43:02 JST No update.
+2016年 9月 2日 金曜日 17:43:02 JST No update.
+2016年 9月 2日 金曜日 18:43:02 JST No update.
+2016年 9月 2日 金曜日 19:43:04 JST No update.
+2016年 9月 2日 金曜日 20:43:04 JST No update.
+2016年 9月 2日 金曜日 21:43:05 JST No update.
+2016年 9月 2日 金曜日 22:43:01 JST No update.
+2016年 9月 2日 金曜日 23:43:02 JST No update.
+2016年 9月 3日 土曜日 00:43:02 JST No update.
+2016年 9月 3日 土曜日 01:43:04 JST No update.
+2016年 9月 3日 土曜日 02:43:02 JST No update.
+2016年 9月 3日 土曜日 03:43:04 JST No update.
+2016年 9月 3日 土曜日 04:43:02 JST No update.
+2016年 9月 3日 土曜日 05:43:02 JST No update.
+2016年 9月 3日 土曜日 06:43:02 JST No update.
+2016年 9月 3日 土曜日 07:43:02 JST No update.
+2016年 9月 3日 土曜日 08:43:02 JST No update.
+2016年 9月 3日 土曜日 09:43:04 JST No update.
+2016年 9月 3日 土曜日 10:43:01 JST No update.
+2016年 9月 3日 土曜日 11:43:01 JST No update.
+2016年 9月 3日 土曜日 12:43:04 JST No update.
+2016年 9月 3日 土曜日 13:43:04 JST No update.
+2016年 9月 3日 土曜日 14:43:01 JST No update.
+2016年 9月 3日 土曜日 15:43:01 JST No update.
+2016年 9月 3日 土曜日 16:43:04 JST No update.
+2016年 9月 3日 土曜日 17:43:01 JST No update.
+2016年 9月 3日 土曜日 18:43:01 JST No update.
+2016年 9月 3日 土曜日 19:43:03 JST No update.
+2016年 9月 3日 土曜日 20:43:01 JST No update.
+2016年 9月 3日 土曜日 21:43:04 JST No update.
+2016年 9月 3日 土曜日 22:43:02 JST No update.
+2016年 9月 3日 土曜日 23:43:02 JST No update.
+2016年 9月 4日 日曜日 00:43:02 JST No update.
+2016年 9月 4日 日曜日 01:43:05 JST No update.
+2016年 9月 4日 日曜日 02:43:02 JST No update.
+2016年 9月 4日 日曜日 03:43:01 JST No update.
+2016年 9月 4日 日曜日 04:43:04 JST No update.
+2016年 9月 4日 日曜日 05:43:02 JST No update.
+2016年 9月 4日 日曜日 06:43:03 JST No update.
+2016年 9月 4日 日曜日 07:43:02 JST No update.
+2016年 9月 4日 日曜日 08:43:02 JST No update.
+2016年 9月 4日 日曜日 09:43:01 JST No update.
+2016年 9月 4日 日曜日 10:43:02 JST No update.
+2016年 9月 4日 日曜日 11:43:02 JST No update.
+2016年 9月 4日 日曜日 12:43:02 JST No update.
+2016年 9月 4日 日曜日 13:43:07 JST No update.
+2016年 9月 4日 日曜日 14:43:02 JST No update.
+2016年 9月 4日 日曜日 15:43:03 JST No update.
+2016年 9月 4日 日曜日 16:43:02 JST No update.
+2016年 9月 4日 日曜日 17:43:02 JST No update.
+2016年 9月 4日 日曜日 18:43:05 JST No update.
+2016年 9月 4日 日曜日 19:43:03 JST No update.
+2016年 9月 4日 日曜日 20:43:02 JST No update.
+2016年 9月 4日 日曜日 21:43:02 JST No update.
+2016年 9月 4日 日曜日 22:43:02 JST No update.
+2016年 9月 4日 日曜日 23:43:04 JST No update.
+2016年 9月 5日 月曜日 00:43:02 JST No update.
+2016年 9月 5日 月曜日 01:43:06 JST No update.
+2016年 9月 5日 月曜日 02:43:03 JST No update.
+2016年 9月 5日 月曜日 03:43:01 JST No update.
+2016年 9月 5日 月曜日 04:43:02 JST No update.
+2016年 9月 5日 月曜日 05:43:02 JST No update.
+2016年 9月 5日 月曜日 06:43:03 JST No update.
+2016年 9月 5日 月曜日 07:43:02 JST No update.
+2016年 9月 5日 月曜日 08:43:02 JST No update.
+2016年 9月 5日 月曜日 09:43:04 JST No update.
+2016年 9月 5日 月曜日 10:43:05 JST No update.
+2016年 9月 5日 月曜日 11:43:01 JST No update.
+2016年 9月 5日 月曜日 12:43:05 JST No update.
+2016年 9月 5日 月曜日 13:43:02 JST START
+2016年 9月 5日 月曜日 13:43:28 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 13:43:28 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 13:50:06 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 13:50:06 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 13:54:49 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 13:54:49 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 13:54:50 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 13:54:50 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 13:57:04 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 13:57:04 JST START awecc_update.php
+2016年 9月 5日 月曜日 13:57:06 JST END   awecc_update.php
+2016年 9月 5日 月曜日 13:57:06 JST START dbdump and import
+2016年 9月 5日 月曜日 13:58:28 JST END   dbdump and import
+2016年 9月 5日 月曜日 13:58:29 JST FINISH
+2016年 9月 5日 月曜日 14:43:04 JST START
+2016年 9月 5日 月曜日 14:43:27 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 14:43:27 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 14:49:31 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 14:49:31 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 14:54:02 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 14:54:02 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 14:54:04 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 14:54:04 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 14:56:23 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 14:56:23 JST START awecc_update.php
+2016年 9月 5日 月曜日 14:56:26 JST END   awecc_update.php
+2016年 9月 5日 月曜日 14:56:26 JST START dbdump and import
+2016年 9月 5日 月曜日 14:57:54 JST END   dbdump and import
+2016年 9月 5日 月曜日 14:57:55 JST FINISH
+2016年 9月 5日 月曜日 15:43:01 JST START
+2016年 9月 5日 月曜日 15:43:25 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 15:43:25 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 15:49:30 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 15:49:30 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 15:53:59 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 15:53:59 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 15:54:00 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 15:54:00 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 15:55:50 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 15:55:50 JST START awecc_update.php
+2016年 9月 5日 月曜日 15:55:54 JST END   awecc_update.php
+2016年 9月 5日 月曜日 15:55:54 JST START dbdump and import
+2016年 9月 5日 月曜日 15:57:20 JST END   dbdump and import
+2016年 9月 5日 月曜日 15:57:21 JST FINISH
+2016年 9月 5日 月曜日 16:43:03 JST START
+2016年 9月 5日 月曜日 16:43:27 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 16:43:27 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 16:49:20 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 16:49:20 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 16:53:45 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 16:53:45 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 16:53:46 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 16:53:46 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 16:55:13 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 16:55:13 JST START awecc_update.php
+2016年 9月 5日 月曜日 16:55:16 JST END   awecc_update.php
+2016年 9月 5日 月曜日 16:55:16 JST START dbdump and import
+2016年 9月 5日 月曜日 16:56:38 JST END   dbdump and import
+2016年 9月 5日 月曜日 16:56:39 JST FINISH
+2016年 9月 5日 月曜日 17:43:02 JST START
+2016年 9月 5日 月曜日 17:43:24 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 17:43:24 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 17:49:25 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 17:49:25 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 17:53:55 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 17:53:55 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 17:53:56 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 17:53:56 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 17:55:43 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 17:55:43 JST START awecc_update.php
+2016年 9月 5日 月曜日 17:55:46 JST END   awecc_update.php
+2016年 9月 5日 月曜日 17:55:46 JST START dbdump and import
+2016年 9月 5日 月曜日 17:57:13 JST END   dbdump and import
+2016年 9月 5日 月曜日 17:57:13 JST FINISH
+2016年 9月 5日 月曜日 18:43:02 JST START
+2016年 9月 5日 月曜日 18:43:25 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 18:43:25 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 18:49:47 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 18:49:47 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 18:54:31 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 18:54:31 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 18:54:33 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 18:54:33 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 18:56:22 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 18:56:22 JST START awecc_update.php
+2016年 9月 5日 月曜日 18:56:24 JST END   awecc_update.php
+2016年 9月 5日 月曜日 18:56:24 JST START dbdump and import
+2016年 9月 5日 月曜日 18:57:51 JST END   dbdump and import
+2016年 9月 5日 月曜日 18:57:52 JST FINISH
+2016年 9月 5日 月曜日 19:43:04 JST START
+2016年 9月 5日 月曜日 19:43:26 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 19:43:26 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 19:49:29 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 19:49:29 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 19:54:01 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 19:54:01 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 19:54:03 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 19:54:03 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 19:55:49 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 19:55:49 JST START awecc_update.php
+2016年 9月 5日 月曜日 19:55:52 JST END   awecc_update.php
+2016年 9月 5日 月曜日 19:55:52 JST START dbdump and import
+2016年 9月 5日 月曜日 19:57:16 JST END   dbdump and import
+2016年 9月 5日 月曜日 19:57:16 JST FINISH
+2016年 9月 5日 月曜日 20:43:04 JST START
+2016年 9月 5日 月曜日 20:43:27 JST Successfully imported WCA_export083_20160905.sql.zip
+2016年 9月 5日 月曜日 20:43:27 JST START sql/wcadb.sql
+2016年 9月 5日 月曜日 20:49:18 JST END   sql/wcadb.sql
+2016年 9月 5日 月曜日 20:49:18 JST START sql/kinchranks.sql
+2016年 9月 5日 月曜日 20:53:46 JST END   sql/kinchranks.sql
+2016年 9月 5日 月曜日 20:53:46 JST START sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 20:53:47 JST END   sql/kinchranks_country.sql
+2016年 9月 5日 月曜日 20:53:47 JST START sql/awecc.sql
+2016年 9月 5日 月曜日 20:55:09 JST END   sql/awecc.sql
+2016年 9月 5日 月曜日 20:55:09 JST START awecc_update.php
+2016年 9月 5日 月曜日 20:55:11 JST END   awecc_update.php
+2016年 9月 5日 月曜日 20:55:11 JST START dbdump and import
+2016年 9月 5日 月曜日 20:56:31 JST END   dbdump and import
+2016年 9月 5日 月曜日 20:56:32 JST FINISH
+2016年 9月 5日 月曜日 21:43:04 JST No update.
+2016年 9月 5日 月曜日 22:43:01 JST No update.
+2016年 9月 5日 月曜日 23:43:02 JST No update.
+2016年 9月 6日 火曜日 00:43:03 JST No update.
+2016年 9月 6日 火曜日 01:43:02 JST No update.
+2016年 9月 6日 火曜日 02:43:03 JST No update.
+2016年 9月 6日 火曜日 03:43:02 JST No update.
+2016年 9月 6日 火曜日 04:43:02 JST No update.
+2016年 9月 6日 火曜日 05:43:04 JST No update.
+2016年 9月 6日 火曜日 06:43:05 JST No update.
+2016年 9月 6日 火曜日 07:43:02 JST No update.
+2016年 9月 6日 火曜日 08:43:03 JST No update.
+2016年 9月 6日 火曜日 09:43:02 JST No update.
+2016年 9月 6日 火曜日 10:43:02 JST No update.
+2016年 9月 6日 火曜日 11:43:02 JST No update.
+2016年 9月 6日 火曜日 12:43:01 JST No update.
+2016年 9月 6日 火曜日 13:43:02 JST No update.
+2016年 9月 6日 火曜日 14:43:02 JST No update.
+2016年 9月 6日 火曜日 15:43:01 JST No update.
+2016年 9月 6日 火曜日 16:43:02 JST No update.
+2016年 9月 6日 火曜日 17:43:02 JST No update.
+2016年 9月 6日 火曜日 18:43:05 JST No update.
+2016年 9月 6日 火曜日 19:43:02 JST No update.
+2016年 9月 6日 火曜日 20:43:02 JST No update.
