@@ -59,6 +59,7 @@ else
 fi
 
 echo $(date) "START dbdump and import" | tee -a ${LOGFILE}
+rm -f wcadbdump.sql
 mysqldump -u ${MYSQL_USER} -p${MYSQL_PASS} ${MYSQL_DB} > wcadbdump.sql
 mysql -u ${MYSQL_USER} -p${MYSQL_PASS} ${MYSQL_DB2} < wcadbdump.sql
 echo $(date) "END   dbdump and import" | tee -a ${LOGFILE}
