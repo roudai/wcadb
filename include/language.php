@@ -68,7 +68,7 @@
     $eventClock   = array('en' => "Rubik's Clock",     'jp' => "ルービッククロック");
     $eventSkewb   = array('en' => "Skewb",             'jp' => "スキューブ");
     $event666     = array('en' => "6x6x6 Cube",        'jp' => "6x6x6キューブ");
-    $event777     = array('en' => "7x7x7 Cube",        'jp' => "7x7x6キューブ");
+    $event777     = array('en' => "7x7x7 Cube",        'jp' => "7x7x7キューブ");
     $event444bf   = array('en' => "4x4x4 Blindfolded", 'jp' => "4x4x4目隠し");
     $event555bf   = array('en' => "5x5x5 Blindfolded", 'jp' => "5x5x5目隠し");
     $event333mbf  = array('en' => "3x3x3 Multi-Blind", 'jp' => "3x3x3複数目隠し");
